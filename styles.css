@@ -80,3 +80,29 @@ footer {
     color: #fff;
     margin-top: 40px;
 }
+
+#about-text {
+    text-align: justify;
+    line-height: 2;
+}
+
+.cv-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cv-button {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+    background-color: #007bff;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease;
+}
+
+.cv-button:hover {
+    background-color: #0056b3;
+}
