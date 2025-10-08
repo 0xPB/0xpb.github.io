@@ -1,2 +1,6 @@
-# paul-bruno.fr
+# Personal website
+
+## Technologies involved
+- Jekyll
+- Github Pages
  
