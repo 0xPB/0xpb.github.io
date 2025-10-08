@@ -23,23 +23,23 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ## Expériences Professionnelles
 
 ### Apprenti Chargé de Projets BIA  
-**🇫🇷 Siemens** – *01/09/2023 – Aujourd’hui*  
+**🇫🇷 | Siemens** – *01/09/2023 – Aujourd’hui*  
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment  
 - Interventions à distance  
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
 ### Project Manager BIA  
-**🇧🇬 Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
+**🇧🇬 | Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en anglais  
 - Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
 - Migrations de projets de **Desigo Insight** vers **CC**  
 
 ### Apprenti Technicien de Mise en Service BIA  
-**🇫🇷 Siemens** – *01/09/2022 – 15/08/2023*  
+**🇫🇷 | Siemens** – *01/09/2022 – 15/08/2023*  
 
 ### Stagiaire Roboticien  
-**Aerospline** – *04/04/2022 – 10/06/2022*  
+**🇫🇷 | Aerospline** – *04/04/2022 – 10/06/2022*  
 - Preuve de concept (POC) d’une **machine-outil à commande numérique (MOCN)** pour un grand groupe aéronautique français  
 
 ---
