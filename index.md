@@ -4,7 +4,6 @@ title: Paul Bruno
 permalink: /
 ---
 
-## Informations
 ```markdown
 Age : 23 ans
 Localisation : Bordeaux
