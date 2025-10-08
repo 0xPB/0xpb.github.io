@@ -153,7 +153,7 @@ GBS : Global Business Services
 
 ## Projets
 
-### Projet Tutoré : Cobot UR3 avec pince Robotiq (Python) - [Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3
+### Projet Tutoré : Cobot UR3 avec pince Robotiq (Python) - [Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)
 - Développement d’une application Python permettant de piloter un robot collaboratif UR3 équipé d’une pince Robotiq Two-Finger Gripper via Ethernet.
 - Conception d’une interface graphique (Tkinter) pour contrôler le robot, visualiser les positions articulaires/TCP et gérer les paramètres de mouvement.
 - Intégration de commandes pour le contrôle de la pince (ouvrir, fermer, position personnalisée).
