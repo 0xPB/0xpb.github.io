@@ -158,7 +158,6 @@ _GTB : Gestion Technique du Bâtiment_
 - Mise en place de sécurités logicielles (limites de vitesse/accélération).
 - Compatibilité Windows & Linux, avec support multi-thèmes (clair/sombre).
 - Collaboration en binôme dans le cadre de la Licence Pro SARII.
-- 
 
 ### CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB) - **[Github](https://github.com/0xPB/CandyCash)**
 - Développement d’une application web ludique pour suivre la performance des actions et tendances de marché en temps réel.
