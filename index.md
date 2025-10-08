@@ -140,7 +140,24 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Mise en place de sécurités logicielles (limites de vitesse/accélération).
 - Compatibilité Windows & Linux, avec support multi-thèmes (clair/sombre).
 - Collaboration en binôme dans le cadre de la Licence Pro SARII.
-- **[Lien](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)**
+- **[Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)**
+
+### CandyCash – Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)
+- Développement d’une application web ludique pour suivre la performance des actions et tendances de marché en temps réel.
+- Frontend (Vue.js, Chart.js) : interface interactive, visualisations dynamiques, gestion des favoris.
+- Backend (Node.js, Express, MongoDB, Socket.io) : API sécurisée, gestion utilisateurs, notifications temps réel.
+- Python script CandyCash.py : outil centralisé pour gérer les services (ouverture/fermeture des ports, lancement frontend/backend/chat).
+- Projet collaboratif avec 3 développeurs dans un cadre académique.
+- **[Github](https://github.com/0xPB/CandyCash)**
+
+### Dobot Arm Automation with Kapla Building (Python / Raspberry Pi / Dobot)
+- Conception d’un système automatisé pour piloter un bras robotique Dobot et construire des structures avec des Kapla à partir d’instructions JSON.
+- Contrôle du Dobot via communication série et librairies Python (pydobot, dobot_extensions).
+- Gestion des servo-moteurs et GPIO du Raspberry Pi pour le positionnement précis.
+- Automatisation du cycle de prise, rotation et placement des Kapla.
+- Architecture modulaire facilitant l’extension et l’ajout de nouvelles logiques de contrôle.
+- **[Github]([https://github.com/0xPB/CandyCash](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building))**
+- 
 
 
 
