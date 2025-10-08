@@ -132,4 +132,15 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ---
 
 ## Projets
-*A venir*  
+
+### Projet Tutoré : Cobot UR3 avec pince Robotiq
+- Développement d’une application Python permettant de piloter un robot collaboratif UR3 équipé d’une pince Robotiq Two-Finger Gripper via Ethernet.
+- Conception d’une interface graphique (Tkinter) pour contrôler le robot, visualiser les positions articulaires/TCP et gérer les paramètres de mouvement.
+- Intégration de commandes pour le contrôle de la pince (ouvrir, fermer, position personnalisée).
+- Mise en place de sécurités logicielles (limites de vitesse/accélération).
+- Compatibilité Windows & Linux, avec support multi-thèmes (clair/sombre).
+- Collaboration en binôme dans le cadre de la Licence Pro SARII.
+- **[Lien](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)**
+
+
+
