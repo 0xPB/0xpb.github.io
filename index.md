@@ -118,7 +118,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Certifications
 - Test of English for International Communication (TOEIC) : **925/990** (Anglais Professionnel et Technique)
-- Habilitations électriques B0V et B1V  
+- ~~Habilitations électriques B0V et B1V~~ (Expirées)  
 - Prévention et secours civiques de niveau 1 (PSC1)  
 - Permis B + véhicule  
 
