@@ -4,10 +4,13 @@ title: Paul Bruno
 permalink: /
 ---
 
+---
 ## Informations
 - Age : 23 ans
 - Localisation : Bordeaux
 - Permis B (avec véhicule)
+
+---
 
 ## Contact
 - [pro@pbruno.xyz](mailto:pro@pbruno.xyz)  
