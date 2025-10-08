@@ -1,10 +1,14 @@
 ---
 layout: default
-title: CV - Paul Bruno
+title: Paul Bruno
 permalink: /
 ---
 
-# Paul BRUNO
+## Contact
+- [contact@pbruno.xyz](mailto:contact@pbruno.xyz?subject=Demande%20de%20contact)  
+- [LinkedIn](https://www.linkedin.com/in/paulbruno33){:target="_blank"} 
+
+---
 
 ## À propos
 Passionné par le monde industriel et les nouvelles technologies, je suis ingénieur en réseaux et informatique, diplômé de l’ENSEIRB-MATMECA.  
@@ -16,13 +20,56 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ---
 
-## Diplômes
-*(section roadmap diplômes à compléter ici, importée depuis `diploma.html`)*
+## Expériences Professionnelles
+
+### Apprenti Chargé de Projets BIA  
+**Siemens** – *01/09/2023 – Aujourd’hui*  
+- Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment  
+- Interventions à distance  
+- Développement d’outils afin d’automatiser  
+- Mise en place de solutions pour la continuité de service  
+
+### Project Manager BIA  
+**Siemens GBS Bulgarie** – *28/05/2025 – 22/07/2025*  
+- Travail en anglais  
+- Création d’outils pour automatiser un process du contrôle qualité  
+- Migrations de projets **Desigo Insight** vers **CC**  
+
+### Apprenti Technicien de Mise en Service BIA  
+**Siemens** – *01/09/2022 – 15/08/2023*  
+
+### Stagiaire Roboticien  
+**Aerospline** – *04/04/2022 – 10/06/2022*  
+- Preuve de concept (POC) d’une **machine-outil à commande numérique (MOCN)** pour un grand groupe aéronautique français  
+
 
 ---
 
-## Expériences Professionnelles
-*(contenu issu de `experience.html` à insérer ici)*
+## Diplômes
+
+### Ingénieur Réseaux et Informatique  
+**ENSEIRB-MATMECA** – *Alternance | 2023 – Aujourd’hui*  
+
+### Bachelor Réseaux et Informatique  
+**ENSEIRB-MATMECA** – *Alternance | 2023 – 2024*  
+
+### Licence Professionnelle Systèmes Automatisés, Réseaux, et Informatique Industrielle  
+**IUT de Bordeaux** – *Alternance | 2022 – 2023*  
+- 🎓 Major de promotion  
+- Mention très bien  
+
+### DUT Génie Électrique et Informatique Industrielle  
+**IUT de Bordeaux** – *2020 – 2022*  
+
+### DU Robotique  
+**IUT de Bordeaux** – *2020 – 2022*  
+
+### Baccalauréat Scientifique – option Sciences de l’Ingénieur, spécialité Informatique et Sciences du Numérique  
+**Lycée Sud Médoc** – *2020*  
+- Mention bien  
+- Participation active au **club robotique**  
+- Participation à la **finale académique de la Robocup Junior**  
+
 
 ---
 
@@ -72,11 +119,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ---
 
 ## Projets
-*(contenu à détailler à partir de `projects.html`)*
+*A venir*
 
----
-
-## Contact
-- [contact@pbruno.xyz](mailto:contact@pbruno.xyz?subject=Demande%20de%20contact)  
-- [LinkedIn](https://www.linkedin.com/in/paulbruno33){:target="_blank"}  
+--- 
 
