@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## Contact
-- [contact@pbruno.xyz](mailto:contact@pbruno.xyz)  
+- [pro@pbruno.xyz](mailto:pro@pbruno.xyz)  
 - [LinkedIn](https://www.linkedin.com/in/paulbruno33){:target="_blank"} 
 
 ---
@@ -111,16 +111,13 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - SQL  
 - MongoDB  
 
-
-### Bureautique & Langues
-- Suite Office 365  
-- Anglais professionnel  
-- Score TOEIC : **855 / 990**  
+### Bureautique
+- Office 365   
 
 ---
 
 ## Certifications
-- Test of English for International Communication (TOEIC) : 925/990  
+- Test of English for International Communication (TOEIC) : **925/990** (Anglais Professionnel et Technique)
 - Habilitations électriques B0V et B1V  
 - Prévention et secours civiques de niveau 1 (PSC1)  
 - Permis B + véhicule  
