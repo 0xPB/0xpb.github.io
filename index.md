@@ -4,13 +4,6 @@ title: Paul Bruno
 permalink: /
 ---
 
-```markdown
-Age : 23 ans
-Localisation : Bordeaux
-Permis B (avec véhicule)
-```
-
----
 ## Informations
 - Age : 23 ans
 - Localisation : Bordeaux
@@ -53,8 +46,8 @@ GBS : Global Business Services
 ### Chargé de Projets BIA
 **🇧🇬 | Siemens GBS Bulgaria - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
-- Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
-- Migrations de projets de **Desigo Insight** vers **CC**  
+- Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers**Desigo Control Center** 
+- Migrations de projets de **Desigo Insight** vers **Desigo Control Center**  
 
 ### Apprenti Technicien de Mise en Service BIA
 **🇫🇷 | Siemens France** – *01/09/2022 – 15/08/2023*  
@@ -77,7 +70,6 @@ GBS : Global Business Services
 **IUT de Bordeaux** – *Alternance | 2022 – 2023*  
 - Major de promotion  
 - Mention Très Bien  
-
 
 ### DU [Robotique](https://www.iut.u-bordeaux.fr/formations/ra/)
 **IUT de Bordeaux** – *2020 – 2022*  
