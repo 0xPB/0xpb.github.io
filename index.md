@@ -77,33 +77,26 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Automatisme  
 - Supervision industrielle (Codra Panorama, Desigo CC)  
 - Protocoles de communication industriels : ModBus, BACnet, KNX  
-- Robotique  
-- Machines virtuelles (VirtualBox, VMWare)  
+- Robotique    
 - Microcontrôleurs (Arduino, Raspberry, STM32)  
 
----
 
-### Réseaux & Cybersécurité
-- Administration Linux / Windows  
+### Systèmes, Réseaux & Cybersécurité
+- Administration Linux / Windows
+- Machines virtuelles (VirtualBox, VMWare)
 - Réseaux (VLANs)  
 - Outils : Wireshark  
-- Cybersécurité  
-
----
+- Cybersécurité (Règles ANSSI)
 
 ### Développement Web
 - HTML / CSS / JavaScript  
 - Node.js  
 - Jekyll (Markdown-like)  
 
----
-
 ### Développement Logiciel
 - Python  
 - C  
 - Java  
-
----
 
 ### DevOps & Outils
 - Git / GitHub / GitLab  
@@ -113,13 +106,10 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Développement collaboratif  
 - Rédaction de documentation technique  
 
----
-
 ### Bases de données
 - SQL  
 - MongoDB  
 
----
 
 ### Bureautique & Langues
 - Suite Office 365  
