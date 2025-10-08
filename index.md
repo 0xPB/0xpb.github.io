@@ -5,7 +5,7 @@ permalink: /
 ---
 
 ## Contact
-- [contact@pbruno.xyz](mailto:contact@pbruno.xyz?subject=Demande%20de%20contact)  
+- [contact@pbruno.xyz](mailto:contact@pbruno.xyz)  
 - [LinkedIn](https://www.linkedin.com/in/paulbruno33){:target="_blank"} 
 
 ---
@@ -23,20 +23,20 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ## Expériences Professionnelles
 
 ### Apprenti Chargé de Projets BIA  
-**Siemens** – *01/09/2023 – Aujourd’hui*  
+**🇫🇷 Siemens** – *01/09/2023 – Aujourd’hui*  
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment  
 - Interventions à distance  
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
 ### Project Manager BIA  
-**Siemens GBS Bulgarie** – *28/05/2025 – 22/07/2025*  
-- Travail en anglais  
-- Création d’outils pour automatiser un process du contrôle qualité  
-- Migrations de projets **Desigo Insight** vers **CC**  
+**🇧🇬 Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
+- Communication exclusivement en anglais  
+- Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
+- Migrations de projets de **Desigo Insight** vers **CC**  
 
 ### Apprenti Technicien de Mise en Service BIA  
-**Siemens** – *01/09/2022 – 15/08/2023*  
+**🇫🇷 Siemens** – *01/09/2022 – 15/08/2023*  
 
 ### Stagiaire Roboticien  
 **Aerospline** – *04/04/2022 – 10/06/2022*  
@@ -46,21 +46,22 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Diplômes
 
-### Ingénieur Réseaux et Informatique | [Site de la formation](https://formation-en.bordeaux-inp.fr/en/training-offer/titre-d-ingenieur-DING/ingenieur-specialite-reseaux-et-informatique-LUMF0009.html)
+### Ingénieur [Réseaux et Informatique](https://formation-en.bordeaux-inp.fr/en/training-offer/titre-d-ingenieur-DING/ingenieur-specialite-reseaux-et-informatique-LUMF0009.html)
 **ENSEIRB-MATMECA** – *Alternance | 2023 – Aujourd’hui*  
 
-### Bachelor Réseaux et Informatique | [Site de la formation](https://formation-en.bordeaux-inp.fr/en/training-offer/titre-d-ingenieur-DING/ingenieur-specialite-reseaux-et-informatique-LUMF0009.html)  
+### Bachelor [Réseaux et Informatique](https://formation-en.bordeaux-inp.fr/en/training-offer/titre-d-ingenieur-DING/ingenieur-specialite-reseaux-et-informatique-LUMF0009.html)  
 **ENSEIRB-MATMECA** – *Alternance | 2023 – 2024*  
 
-### Licence Professionnelle Systèmes Automatisés, Réseaux, et Informatique Industrielle | [Site de la formation](https://www.iut.u-bordeaux.fr/geii/images/Lpro/LP_GRADIGNAN_GEII_SARI_print.pdf) 
+### Licence Professionnelle [Systèmes Automatisés, Réseaux, et Informatique Industrielle](https://www.iut.u-bordeaux.fr/geii/images/Lpro/LP_GRADIGNAN_GEII_SARI_print.pdf) 
 **IUT de Bordeaux** – *Alternance | 2022 – 2023*  
 - 🎓 Major de promotion  
 - Mention très bien  
 
-### DUT Génie Électrique et Informatique Industrielle | [Site de la formation](https://www.iut.u-bordeaux.fr/geii/)  
+
+### DU [Robotique](https://www.iut.u-bordeaux.fr/formations/ra/)
 **IUT de Bordeaux** – *2020 – 2022*  
 
-### DU Robotique | [Site de la formation](https://www.iut.u-bordeaux.fr/formations/ra/)
+### DUT [Génie Électrique et Informatique Industrielle](https://www.iut.u-bordeaux.fr/geii/)  
 **IUT de Bordeaux** – *2020 – 2022*  
 
 ### Baccalauréat Scientifique – option Sciences de l’Ingénieur, spécialité Informatique et Sciences du Numérique  
