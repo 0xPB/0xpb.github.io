@@ -8,8 +8,6 @@ permalink: /
 - [contact@pbruno.xyz](mailto:contact@pbruno.xyz?subject=Demande%20de%20contact)  
 - [LinkedIn](https://www.linkedin.com/in/paulbruno33){:target="_blank"} 
 
----
-
 ## À propos
 Passionné par le monde industriel et les nouvelles technologies, je suis ingénieur en réseaux et informatique, diplômé de l’ENSEIRB-MATMECA.  
 J’aime analyser, optimiser et améliorer les systèmes pour les rendre plus performants et adaptés aux besoins des entreprises.  
@@ -17,8 +15,6 @@ Curieux et rigoureux, je prends plaisir à résoudre des problématiques complex
 Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amélioration, tandis que mon sens de l’organisation m’aide à gérer efficacement les projets.  
 Doté d’un bon esprit d’équipe, je m’épanouis dans des environnements collaboratifs où l’échange et la communication sont essentiels.  
 J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’objectif de proposer des solutions innovantes et adaptées aux exigences du secteur industriel.  
-
----
 
 ## Expériences Professionnelles
 
@@ -41,9 +37,6 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ### Stagiaire Roboticien  
 **Aerospline** – *04/04/2022 – 10/06/2022*  
 - Preuve de concept (POC) d’une **machine-outil à commande numérique (MOCN)** pour un grand groupe aéronautique français  
-
-
----
 
 ## Diplômes
 
@@ -71,55 +64,58 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Participation à la **finale académique de la Robocup Junior**  
 
 
----
-
 ## Compétences
 
-### Langages
-- Python
-- C / C++
-- Java
-- HTML / CSS / JavaScript
-- Bash
+### Industrie
+- Automatisme  
+- Supervision industrielle (Codra Panorama, Desigo CC)  
+- Protocoles : ModBus, BACnet, KNX  
+- Simulation robotique : RoboDK  
+- Machines virtuelles (VirtualBox, VMWare)  
+- Microcontrôleurs (Arduino, Raspberry, STM32)  
+- Robotique  
 
-### Réseaux & Systèmes
-- Administration Linux
-- Protocoles TCP/IP, UDP, HTTP, DNS
-- Outils : Wireshark, iperf, netcat
+### Réseaux & Cybersécurité
+- Administration Linux / Windows  
+- Réseaux  
+- Outils : Wireshark  
+- Cybersécurité  
 
 ### Développement Web
-- Django, Flask
-- Node.js, Express
-- Jekyll, Hugo
+- HTML / CSS / JavaScript  
+- Node.js  
+- Jekyll  
+
+### Développement Logiciel
+- Python  
+- C  
+- Java  
 
 ### DevOps & Outils
-- Git / GitHub / GitLab
-- Docker / Docker Compose
-- Ansible
-- CI/CD (GitHub Actions, GitLab CI)
+- Git / GitHub / GitLab  
+- Docker / Docker Compose  
+- CI/CD (GitLab CI)  
+- Gestion de projet Agile / Scrum  
+- Développement collaboratif  
+- Rédaction de documentation technique  
 
 ### Bases de données
-- PostgreSQL
-- MySQL
-- SQLite
+- SQL  
+- MongoDB  
 
-### Méthodologies
-- Agile / Scrum
-- Gestion de projet
-- Rédaction de documentation technique
+### Bureautique & Langues
+- Suite Office 365  
+- Anglais professionnel  
+- Score TOEIC : **855 / 990**  
 
----
 
 ## Certifications
 - Test of English for International Communication (TOEIC) : 925/990  
-- Habilitations électriques B0V et B1V  
+- Habilitations électriques B0V et B1V 
 - Prévention et secours civiques de niveau 1 (PSC1)  
-- Permis B  
+- Permis B + véhicule
 
----
 
 ## Projets
 *A venir*
-
---- 
 
