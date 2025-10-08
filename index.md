@@ -133,7 +133,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Projets
 
-### Projet Tutoré : Cobot UR3 avec pince Robotiq
+### Projet Tutoré : Cobot UR3 avec pince Robotiq (Python)
 - Développement d’une application Python permettant de piloter un robot collaboratif UR3 équipé d’une pince Robotiq Two-Finger Gripper via Ethernet.
 - Conception d’une interface graphique (Tkinter) pour contrôler le robot, visualiser les positions articulaires/TCP et gérer les paramètres de mouvement.
 - Intégration de commandes pour le contrôle de la pince (ouvrir, fermer, position personnalisée).
@@ -142,7 +142,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Collaboration en binôme dans le cadre de la Licence Pro SARII.
 - **[Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)**
 
-### CandyCash – Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)
+### CandyCash:  Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)
 - Développement d’une application web ludique pour suivre la performance des actions et tendances de marché en temps réel.
 - Frontend (Vue.js, Chart.js) : interface interactive, visualisations dynamiques, gestion des favoris.
 - Backend (Node.js, Express, MongoDB, Socket.io) : API sécurisée, gestion utilisateurs, notifications temps réel.
@@ -150,14 +150,10 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Projet collaboratif avec 3 développeurs dans un cadre académique.
 - **[Github](https://github.com/0xPB/CandyCash)**
 
-### Dobot Arm Automation with Kapla Building (Python / Raspberry Pi / Dobot)
+### Automatisation d’un bras Dobot avec construction en Kapla (Python / Raspberry Pi / Dobot)
 - Conception d’un système automatisé pour piloter un bras robotique Dobot et construire des structures avec des Kapla à partir d’instructions JSON.
 - Contrôle du Dobot via communication série et librairies Python (pydobot, dobot_extensions).
 - Gestion des servo-moteurs et GPIO du Raspberry Pi pour le positionnement précis.
 - Automatisation du cycle de prise, rotation et placement des Kapla.
 - Architecture modulaire facilitant l’extension et l’ajout de nouvelles logiques de contrôle.
 - **[Github]([https://github.com/0xPB/CandyCash](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building))**
-- 
-
-
-
