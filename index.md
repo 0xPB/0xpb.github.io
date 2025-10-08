@@ -54,8 +54,8 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ### Licence Professionnelle [Systèmes Automatisés, Réseaux, et Informatique Industrielle](https://www.iut.u-bordeaux.fr/geii/images/Lpro/LP_GRADIGNAN_GEII_SARI_print.pdf) 
 **IUT de Bordeaux** – *Alternance | 2022 – 2023*  
-- 🎓 Major de promotion  
-- Mention très bien  
+- Major de promotion  
+- Mention Très Bien  
 
 
 ### DU [Robotique](https://www.iut.u-bordeaux.fr/formations/ra/)
@@ -66,9 +66,9 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ### Baccalauréat [Scientifique](https://fr.wikipedia.org/wiki/Baccalaur%C3%A9at_scientifique) – option [Sciences de l’Ingénieur](https://fr.wikipedia.org/wiki/Sciences_de_l%27ing%C3%A9nieur#:~:text=En%20France-,Enseignement%20au%20lyc%C3%A9e,que%20qu'enseignement%20de%20sp%C3%A9cialit%C3%A9.), spécialité [Informatique et Sciences du Numérique](https://fr.wikipedia.org/wiki/Informatique_et_sciences_du_num%C3%A9rique)  
 **Lycée Sud Médoc** – *2020*  
-- Mention bien  
-- Participation active au **club robotique**  
-- Participation à la **finale académique de la Robocup Junior**  
+- Mention Bien  
+- Participation active au **Club Robotique**  
+- Participation à la **Finale Académique de la Robocup Junior**  
 
 ---
 
