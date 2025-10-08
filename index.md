@@ -83,12 +83,20 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ## Compétences & Connaissances
 
 ### Industrie
-- Automatisme  
-- Supervision industrielle (Codra Panorama, Desigo CC)  
+- Automatisme (GRAFCET, LADDER)
+- Supervision industrielle 
 - Protocoles de communication industriels : ModBus, BACnet, KNX  
-- Robotique    
-- Microcontrôleurs (Arduino, Raspberry, STM32)  
+- Robotique (Cura, OnShape, RobotDK, ROS1)
 
+#### Siemens
+- Desigo Control Center (DCC)
+- ~~Desigo Xworks Plus (XWP)~~ (en cours)
+- ~~Desigo ABT~~ (en cours)
+- Desigo Insight (DI)
+- Totally Integrated Automation (TIA) Portal
+
+#### Codra
+- Panorama Studio
 
 ### Systèmes, Réseaux & Cybersécurité
 - Administration Linux / Windows
@@ -117,7 +125,13 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ### Bases de données
 - SQL  
-- MongoDB  
+- MongoDB
+
+### Electronique & Embarqué
+- Soudure de composants
+- Compréhension de documentation technique
+- Microcontrôleurs (Arduino, Raspberry, STM32)
+- FPGA (VHDL)
 
 ### Bureautique
 - Office 365   
