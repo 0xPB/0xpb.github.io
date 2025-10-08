@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paul Bruno
+title: CV & Portfolio
 permalink: /
 ---
 
