@@ -11,7 +11,7 @@ permalink: /
 ---
 
 ## À propos
-Passionné par le monde industriel et les nouvelles technologies, je suis ingénieur en réseaux et informatique, diplômé de l’ENSEIRB-MATMECA.  
+Passionné par le monde industriel et les nouvelles technologies, je suis apprenti ingénieur en réseaux et informatique, à l’ENSEIRB-MATMECA.  
 J’aime analyser, optimiser et améliorer les systèmes pour les rendre plus performants et adaptés aux besoins des entreprises.  
 Curieux et rigoureux, je prends plaisir à résoudre des problématiques complexes en adoptant une approche méthodique et structurée.  
 Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amélioration, tandis que mon sens de l’organisation m’aide à gérer efficacement les projets.  
