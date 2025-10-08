@@ -2,7 +2,7 @@ title: "Paul Bruno"
 description: "Apprenti ingénieur en réseaux et informatique"
 baseurl: ""
 url: "https://paulbruno.xyz"
-theme: "minimal"
+theme: "minima"
 author: "Paul Bruno"
 markdown: kramdown
 permalink: /:categories/:title/
