@@ -1,9 +1,9 @@
 ---
 layout: default
+title: Paul Bruno
+description: 23 ans
 permalink: /
 ---
-
-## Paul BRUNO (23 ans)
 
 ## Contact
 - [pro@pbruno.xyz](mailto:pro@pbruno.xyz)  
