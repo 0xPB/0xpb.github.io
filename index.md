@@ -10,7 +10,6 @@ permalink: /
 - Age : 23 ans
 - Localisation : Bordeaux
 - Permis B (avec véhicule)
-_#test_
 ---
 
 ## Contact
