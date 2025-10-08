@@ -164,4 +164,4 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Fonctionnalités principales : création/suppression de canaux, connexion/déconnexion, envoi/réception de fichiers, commandes administrateur.
 - Outils : Makefile pour compiler, générer la documentation (Doxygen) et gérer l’environnement serveur.
 - Projet collaboratif avec 3 développeurs (2023).
-- **[Github]([Github](https://github.com/0xPB/RI-2A-Slime-Messaging)**
+- **[Github](https://github.com/0xPB/RI-2A-Slime-Messaging)**
