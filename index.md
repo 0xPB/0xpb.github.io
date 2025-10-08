@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Paul Bruno
+title: Paul Bruno (23 ans)
 permalink: /
 ---
 
