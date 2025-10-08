@@ -30,9 +30,11 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Expériences Professionnelles
 
+Abréviations :
 ```markdown
-_BIA: Building Infrastructure & Automation_
-_GTB : Gestion Technique du Bâtiment_
+BIA: Building Infrastructure & Automation
+GTB : Gestion Technique du Bâtiment
+GBS : Global Business Services
 ```
 
 ### Apprenti Chargé de Projets BIA
@@ -43,7 +45,7 @@ _GTB : Gestion Technique du Bâtiment_
 - Mise en place de solutions pour la continuité de service  
 
 ### Chargé de Projets BIA
-**🇧🇬 | Siemens Bulgaria Global Business Services (GBS) - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
+**🇧🇬 | Siemens GBS Bulgaria - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
 - Migrations de projets de **Desigo Insight** vers **CC**  
