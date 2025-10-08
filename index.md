@@ -45,7 +45,7 @@ GBS : Global Business Services
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
-### Chargé de Projets BIA
+### Stagiaire Chargé de Projets BIA
 **🇧🇬 | Siemens GBS Bulgaria - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers**Desigo Control Center** 
