@@ -36,20 +36,20 @@ _GTB : Gestion Technique du Bâtiment_
 ```
 
 ### Apprenti Chargé de Projets BIA
-**🇫🇷 | Siemens** – *01/09/2023 – Aujourd’hui*  
+**🇫🇷 | Siemens France** – *01/09/2023 – Aujourd’hui*  
 - Gestion d’un portefeuille de projets de GTB
 - Interventions de dépannage à distance  
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
-### Chargé de Projets BIA - Bulgarie
-**🇧🇬 | Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
+### Chargé de Projets BIA
+**🇧🇬 | Siemens Bulgaria Global Business Services (GBS) - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
 - Migrations de projets de **Desigo Insight** vers **CC**  
 
 ### Apprenti Technicien de Mise en Service BIA
-**🇫🇷 | Siemens** – *01/09/2022 – 15/08/2023*  
+**🇫🇷 | Siemens France** – *01/09/2022 – 15/08/2023*  
 
 ### Stagiaire Roboticien  
 **🇫🇷 | Aerospline** – *04/04/2022 – 10/06/2022*  
