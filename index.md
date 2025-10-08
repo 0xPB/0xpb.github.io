@@ -30,20 +30,25 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Expériences Professionnelles
 
-### Apprenti Chargé de Projets BIA  
+```markdown
+_BIA: Building Infrastructure & Automation_
+_GTB : Gestion Technique du Bâtiment_
+```
+
+### Apprenti Chargé de Projets BIA
 **🇫🇷 | Siemens** – *01/09/2023 – Aujourd’hui*  
-- Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment  
-- Interventions à distance  
+- Gestion d’un portefeuille de projets de GTB
+- Interventions de dépannage à distance  
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
-### Project Manager BIA  
+### Chargé de Projets BIA - Bulgarie
 **🇧🇬 | Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
 - Migrations de projets de **Desigo Insight** vers **CC**  
 
-### Apprenti Technicien de Mise en Service BIA  
+### Apprenti Technicien de Mise en Service BIA
 **🇫🇷 | Siemens** – *01/09/2022 – 15/08/2023*  
 
 ### Stagiaire Roboticien  
@@ -52,7 +57,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ---
 
-## Diplômes
+## Formation
 
 ### Ingénieur [Réseaux et Informatique](https://formation-en.bordeaux-inp.fr/en/training-offer/titre-d-ingenieur-DING/ingenieur-specialite-reseaux-et-informatique-LUMF0009.html)
 **ENSEIRB-MATMECA** – *Alternance | 2023 – Aujourd’hui*  
@@ -83,10 +88,10 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ## Compétences & Connaissances
 
 ### Industrie
-- Automatisme (GRAFCET, LADDER)
-- Supervision industrielle 
-- Protocoles de communication industriels : ModBus, BACnet, KNX  
-- Robotique (Cura, OnShape, RobotDK, ROS1)
+- Automatisme : GRAFCET, LADDER, schéma à contact
+- Supervision industrielle
+- Protocoles de communication industriels : ModBus, BACnet 
+- Robotique : Cura, OnShape, RobotDK, ROS1
 
 #### Siemens
 - Desigo Control Center (DCC)
@@ -99,11 +104,10 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Panorama Studio
 
 ### Systèmes, Réseaux & Cybersécurité
-- Administration Linux / Windows
-- Machines virtuelles (VirtualBox, VMWare)
-- Réseaux (VLANs)  
-- Outils : Wireshark  
-- Cybersécurité (Règles ANSSI)
+- Administration :Windows, Linux 
+- Virtualisation : VirtualBox, VMWare:
+- Réseau : Wireshark  
+- Cybersécurité : Recommandations ANSSI
 
 ### Développement Web
 - HTML / CSS / JavaScript  
@@ -118,7 +122,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ### DevOps & Outils
 - Git / GitHub / GitLab  
 - Docker / Docker Compose  
-- CI/CD (GitLab CI)  
+- CI/CD : GitLab CI 
 - Gestion de projet Agile / Scrum  
 - Développement collaboratif  
 - Rédaction de documentation technique  
@@ -129,7 +133,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ### Electronique & Embarqué
 - Soudure de composants
-- Compréhension de documentation technique
+- Compréhension de schémas technique
 - Microcontrôleurs (Arduino, Raspberry, STM32)
 - FPGA (VHDL)
 
