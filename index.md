@@ -1,9 +1,13 @@
 ---
 layout: default
 title: Paul Bruno
-description: 23 ans
 permalink: /
 ---
+
+## Informations
+- Age : 23 ans
+- Localisation : Bordeaux
+- Permis B (avec véhicule)
 
 ## Contact
 - [pro@pbruno.xyz](mailto:pro@pbruno.xyz)  
@@ -32,7 +36,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ### Project Manager BIA  
 **🇧🇬 | Siemens Global Business Services** – *28/05/2025 – 22/07/2025*  
-- Communication exclusivement en anglais  
+- Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation du controle qualité suite à migration de Desigo Insight vers Desigo CC. 
 - Migrations de projets de **Desigo Insight** vers **CC**  
 
@@ -118,10 +122,9 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 ---
 
 ## Certifications
-- Test of English for International Communication (TOEIC) : **925/990** (Anglais Professionnel et Technique)
+- Test of English for International Communication (TOEIC) : **925/990**
 - ~~Habilitations électriques B0V et B1V~~ (Expirées)  
-- Prévention et secours civiques de niveau 1 (PSC1)  
-- Permis B + véhicule  
+- Prévention et secours civiques de niveau 1 (PSC1)
 
 ---
 
