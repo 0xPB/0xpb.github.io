@@ -133,35 +133,32 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Projets
 
-### Projet Tutoré : Cobot UR3 avec pince Robotiq (Python)
+### Projet Tutoré : Cobot UR3 avec pince Robotiq (Python) - [Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3
 - Développement d’une application Python permettant de piloter un robot collaboratif UR3 équipé d’une pince Robotiq Two-Finger Gripper via Ethernet.
 - Conception d’une interface graphique (Tkinter) pour contrôler le robot, visualiser les positions articulaires/TCP et gérer les paramètres de mouvement.
 - Intégration de commandes pour le contrôle de la pince (ouvrir, fermer, position personnalisée).
 - Mise en place de sécurités logicielles (limites de vitesse/accélération).
 - Compatibilité Windows & Linux, avec support multi-thèmes (clair/sombre).
 - Collaboration en binôme dans le cadre de la Licence Pro SARII.
-- **[Github](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)**
+- 
 
-### CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)
+### CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB) - **[Github](https://github.com/0xPB/CandyCash)**
 - Développement d’une application web ludique pour suivre la performance des actions et tendances de marché en temps réel.
 - Frontend (Vue.js, Chart.js) : interface interactive, visualisations dynamiques, gestion des favoris.
 - Backend (Node.js, Express, MongoDB, Socket.io) : API sécurisée, gestion utilisateurs, notifications temps réel.
 - Python script CandyCash.py : outil centralisé pour gérer les services (ouverture/fermeture des ports, lancement frontend/backend/chat).
 - Projet collaboratif avec 3 développeurs dans un cadre académique.
-- **[Github](https://github.com/0xPB/CandyCash)**
 
-### Automatisation d’un bras Dobot avec construction en Kapla (Python / Raspberry Pi / Dobot)
+### Automatisation d’un bras Dobot avec construction en Kapla (Python / Raspberry Pi / Dobot) - **[Github](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building)**
 - Conception d’un système automatisé pour piloter un bras robotique Dobot et construire des structures avec des Kapla à partir d’instructions JSON.
 - Contrôle du Dobot via communication série et librairies Python (pydobot, dobot_extensions).
 - Gestion des servo-moteurs et GPIO du Raspberry Pi pour le positionnement précis.
 - Automatisation du cycle de prise, rotation et placement des Kapla.
 - Architecture modulaire facilitant l’extension et l’ajout de nouvelles logiques de contrôle.
-- **[Github]([Github](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building)**
 
-### Slime : Application de messagerie en temps réel avec partage de fichiers (C / SQLite / Client-Serveur)
+### Slime : Application de messagerie en temps réel avec partage de fichiers (C / SQLite / Client-Serveur) - **[Github](https://github.com/0xPB/RI-2A-Slime-Messaging)**
 - Développement d’une application de messagerie temps réel avec gestion de canaux multiples et possibilité de partage de fichiers.
 - Architecture client-serveur en C, avec base de données SQLite pour la gestion des utilisateurs et canaux.
 - Fonctionnalités principales : création/suppression de canaux, connexion/déconnexion, envoi/réception de fichiers, commandes administrateur.
 - Outils : Makefile pour compiler, générer la documentation (Doxygen) et gérer l’environnement serveur.
 - Projet collaboratif avec 3 développeurs (2023).
-- **[Github](https://github.com/0xPB/RI-2A-Slime-Messaging)**
