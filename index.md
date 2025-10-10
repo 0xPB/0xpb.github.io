@@ -106,20 +106,24 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Panorama Studio
 
 ### Systèmes, Réseaux & Cybersécurité
-- Administration :Windows, Linux 
-- Virtualisation : VirtualBox, VMWare:
-- Réseau : Wireshark  
+- Administration : Windows, Linux 
+- Virtualisation : VirtualBox, VMWare
+- Réseau : TCP/IP, Wireshark  
 - Cybersécurité : Recommandations ANSSI
 
 ### Développement Web
-- HTML / CSS / JavaScript  
+- HTML / CSS / JavaScript 
 - Node.js  
 - Jekyll  
 
 ### Développement Logiciel
 - Python  
 - C / C++ / C# 
-- Java  
+- Java
+
+### Scripts Shell
+- Bash
+- Batch, Powershell
 
 ### DevOps & Outils
 - Git / GitHub / GitLab  
