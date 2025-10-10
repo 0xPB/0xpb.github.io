@@ -1,0 +1,28 @@
+name: Simple Usage
+
+on:
+  push:
+    branches:
+      - main  # Déclenche l'action sur la branche principale
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+
+    steps:
+      # Étape 1 : Checkout du code (récupère les fichiers .md)
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Étape 2 : Utiliser Docker pour convertir cv.md en cv.pdf via Pandoc
+      - name: Convert cv.md to cv.pdf via Pandoc Docker
+        uses: docker://pandoc/core:3.5
+        with:
+          args: cv.md -o cv.pdf  # Convertir le fichier cv.md en cv.pdf
+
+      # Étape 3 : Sauvegarder le PDF généré comme un artifact
+      - name: Upload cv.pdf as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: cv-pdf
+          path: cv.pdf
