@@ -6,7 +6,7 @@ permalink: /
 
 ---
 ## CV
-- [Télécharger le CV](cv.pdf)
+- [Télécharger le CV](CV_Paul_BRUNO.pdf)
 ---
 
 ## Informations
