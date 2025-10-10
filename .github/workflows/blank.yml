@@ -23,17 +23,11 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Install Pandoc and other dependencies (if needed)
-      - name: Install Pandoc
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc  # Installer Pandoc pour la conversion Markdown -> PDF
-
-      # Convert the cv.md file to cv.pdf using Pandoc
-      - name: Convert cv.md to cv.pdf
-        run: |
-          # Assure que cv.md est bien présent à la racine du repo
-          pandoc cv.md -o cv.pdf  # Convertir le fichier Markdown en PDF
+      # Use the Pandoc Docker container to convert the markdown to PDF
+      - name: Convert cv.md to cv.pdf using Pandoc Docker
+        uses: docker://pandoc/core:3.5
+        with:
+          args: cv.md -o cv.pdf  # Convertir le fichier Markdown en PDF
 
       # Vérifier si le PDF a bien été généré
       - name: Check if cv.pdf is generated
@@ -45,9 +39,9 @@ jobs:
             exit 1  # Faire échouer l'action si le fichier n'est pas trouvé
           fi
 
-      # Optionnel : télécharger le fichier PDF généré comme un artifact
+      # Télécharger le fichier PDF généré comme un artifact
       - name: Upload cv.pdf as artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v4  # Mise à jour vers la version 4
         with:
           name: cv-pdf
           path: cv.pdf  # Télécharger le fichier PDF généré
