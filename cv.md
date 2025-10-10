@@ -2,9 +2,9 @@
 23 ans | Bordeaux | Permis B (avec voiture) | [https://pbruno.xyz](https://pbruno.xyz) | [pro@pbruno.xyz](mailto:pro@pbruno.xyz) | [linkedin.com/in/paulbruno33](https://www.linkedin.com/in/paulbruno33)
 
 ## EXPERIENCES PROFESSIONNELLES
-- Siemens France - **Chargé de Projets BIA** - Apprentissage | 01/09/2023 – Aujourd’hui
-- Siemens Bulgarie - **Chargé de Projets BIA** – Stage - 8/05/2025 | 22/07/2025
-- Siemens France - **Technicien de Mise en Service BIA** – Apprentissage | 01/09/2022 – 15/08/2023
+- Siemens France - **Chargé de Projets BIA** - Apprentissage | 01/09/2023 – Aujourd’hui 
+- Siemens Bulgarie - **Chargé de Projets BIA** – Stage - 8/05/2025 | 22/07/2025 
+- Siemens France - **Technicien de Mise en Service BIA** – Apprentissage | 01/09/2022 – 15/08/2023 
 - Aerospline - **Roboticien** – Stage | 04/04/2022 – 10/06/2022
 
 ## FORMATIONS
