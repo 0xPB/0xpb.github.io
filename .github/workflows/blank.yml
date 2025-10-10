@@ -47,7 +47,7 @@ jobs:
 
       # Optionnel : télécharger le fichier PDF généré comme un artifact
       - name: Upload cv.pdf as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: cv-pdf
           path: cv.pdf  # Télécharger le fichier PDF généré
