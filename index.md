@@ -39,7 +39,7 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 - Mise en place de solutions pour la continuité de service  
 
 ### Stage International | Chargé de Projets Building Infrastructure & Automation
-**🇧🇬 | Siemens Global Business Services Bulgaria - Global Engineering Center of Excellence** – *28/05/2025 – 22/07/2025*  
+**🇧🇬 | Siemens Global Business Services Bulgaria - Global Engineering Center of ExCellence** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers **Desigo Control Center** 
 - Migrations de projets de Gestion Technique du Bâtiment (GTB) de **Desigo Insight** vers **Desigo Control Center**
