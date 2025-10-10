@@ -2,18 +2,18 @@
 23 ans | Bordeaux | Permis B (avec voiture) | [pro@pbruno.xyz](mailto:pro@pbruno.xyz) | [LinkedIn](https://www.linkedin.com/in/paulbruno33)
 
 ## EXPERIENCES PROFESSIONNELLES
-Siemens France - **Chargé de Projets BIA** - Apprentissage – 01/09/2023 – Aujourd’hui
-Siemens Bulgarie - **Chargé de Projets BIA** – Stage - 8/05/2025 – 22/07/2025
-Siemens France - **Technicien de Mise en Service BIA** – Apprentissage – *01/09/2022 – 15/08/2023*  
-Aerospline - **Roboticien** – Stage – *04/04/2022 – 10/06/2022*
+- Siemens France - **Chargé de Projets BIA** - Apprentissage – 01/09/2023 – Aujourd’hui
+- Siemens Bulgarie - **Chargé de Projets BIA** – Stage - 8/05/2025 – 22/07/2025
+- Siemens France - **Technicien de Mise en Service BIA** – Apprentissage – *01/09/2022 – 15/08/2023*  
+- Aerospline - **Roboticien** – Stage – *04/04/2022 – 10/06/2022*
 
 ## FORMATIONS
-**Ingénieur Réseaux et Informatique** – ENSEIRB-MATMECA – *Alternance | 2023 – Aujourd’hui*  
-**Bachelor Réseaux et Informatique** – ENSEIRB-MATMECA – *Alternance | 2023 – 2024*  
-**Licence Professionnelle Systèmes Automatisés, Réseaux, et Informatique Industrielle** – IUT de Bordeaux – *Alternance | 2022 – 2023* (Major de promotion, Mention Très Bien)  
-**DU Robotique** – IUT de Bordeaux – *2020 – 2022*  
-**DUT Génie Électrique et Informatique Industrielle** – IUT de Bordeaux – *2020 – 2022*  
-**BAC Scientifique – option Sciences de l’Ingénieur, spécialité Informatique et Sciences du Numérique** – Lycée Sud Médoc – *2020* (Mention Bien, Club Robotique, Finale Académique de la Robocup Junior)
+- **Ingénieur Réseaux et Informatique** – ENSEIRB-MATMECA – *Alternance | 2023 – Aujourd’hui*  
+- **Bachelor Réseaux et Informatique** – ENSEIRB-MATMECA – *Alternance | 2023 – 2024*  
+- **Licence Professionnelle Systèmes Automatisés, Réseaux, et Informatique Industrielle** – IUT de Bordeaux – *Alternance | 2022 – 2023* (Major de promotion, Mention Très Bien)  
+- **DU Robotique** – IUT de Bordeaux – *2020 – 2022*  
+- **DUT Génie Électrique et Informatique Industrielle** – IUT de Bordeaux – *2020 – 2022*  
+- **BAC Scientifique – option Sciences de l’Ingénieur, spécialité Informatique et Sciences du Numérique** – Lycée Sud Médoc – *2020* (Mention Bien, Club Robotique, Finale Académique de la Robocup Junior)
 
 ## COMPETENCES ET CONNAISSANCES
 - Automatisme, Supervision Industrielle , Protocoles Industriels, Robotique
