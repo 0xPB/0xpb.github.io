@@ -31,32 +31,34 @@ J’aime apprendre en continu et relever de nouveaux défis, avec toujours l’o
 
 ## Expériences Professionnelles
 
-Abréviations :
-```markdown
-BIA: Building Infrastructure & Automation
-GTB : Gestion Technique du Bâtiment
-GBS : Global Business Services
-```
-
-### Apprenti Chargé de Projets BIA
+### Apprentissage | Chargé de Projets Building Infrastructure & Automation
 **🇫🇷 | Siemens France** – *01/09/2023 – Aujourd’hui*  
-- Gestion d’un portefeuille de projets de GTB
+- Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)
 - Interventions de dépannage à distance  
 - Développement d’outils afin d’automatiser  
 - Mise en place de solutions pour la continuité de service  
 
-### Stagiaire Chargé de Projets BIA
-**🇧🇬 | Siemens GBS Bulgaria - Global Engineering Center of Excellence (GECC)** – *28/05/2025 – 22/07/2025*  
+### Stage International | Chargé de Projets Building Infrastructure & Automation
+**🇧🇬 | Siemens Global Business Services Bulgaria - Global Engineering Center of Excellence** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
-- Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers**Desigo Control Center** 
-- Migrations de projets de **Desigo Insight** vers **Desigo Control Center**  
+- Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers **Desigo Control Center** 
+- Migrations de projets de Gestion Technique du Bâtiment (GTB) de **Desigo Insight** vers **Desigo Control Center**
 
-### Apprenti Technicien de Mise en Service BIA
-**🇫🇷 | Siemens France** – *01/09/2022 – 15/08/2023*  
+### Apprentissage | Technicien de Mise en Service BIA
+**🇫🇷 | Siemens France** – *01/09/2022 – 15/08/2023*
+- Développement d'un logiciel afin d'automatiser la vue des stocks en temps lors de la crise du Covid-19 afin d'informer les clients sur les délais de livraisons (Python, Excel)
+- Développement d'un logiciel de génération de plannings de projets au format Excel (Python)
+- Migrations de projets de Gestion Technique du Bâtiment (GTB) de **Desigo Insight** vers **Desigo Control Center**
+- Communication (Présentations aux équipes commerciales et techniques)
 
-### Stagiaire Roboticien  
+### Stage | Roboticien  
 **🇫🇷 | Aerospline** – *04/04/2022 – 10/06/2022*  
-- Preuve de concept (POC) d’une **machine-outil à commande numérique (MOCN)** pour un grand groupe aéronautique français  
+- Preuve de concept (POC) d’une **Machine-Outil à Commande Numérique (MOCN)** pour un grand groupe aéronautique français pour vérifier des points de conformités sur des pièces mécaniques
+- Reverse-Engineering d'une machine 3 axes
+- Developpement sur de l'embarqué en Python et C++ via microcôntroleurs Raspberry Pi et Arduino
+- Developpement d'un Interface Homme-Machine (IHM) pour les utilisateurs
+- Choix techniques en fonction des spécificités techniques du Cahier des Charges Fonctionnel (CDCF)
+- Collaboration avec Ingénieurs en Mécanique pour Conception Assistée par Ordinateur (CAO)
 
 ---
 
@@ -97,8 +99,6 @@ GBS : Global Business Services
 
 #### Siemens
 - Desigo Control Center (DCC)
-- ~~Desigo Xworks Plus (XWP)~~ (en cours)
-- ~~Desigo ABT~~ (en cours)
 - Desigo Insight (DI)
 - Totally Integrated Automation (TIA) Portal
 
