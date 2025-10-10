@@ -13,21 +13,25 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install Pandoc and LaTeX
+      - name: Install Pandoc and WeasyPrint
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+          sudo apt-get install -y pandoc python3-pip
+          pip3 install weasyprint  # Installer WeasyPrint
 
       - name: Convert Markdown to PDF
         run: |
-          # Combiner index.md et cv.md en un seul PDF
-          pandoc index.md cv.md -o output.pdf
+          # Convertir index.md et cv.md en un seul fichier HTML avec Pandoc
+          pandoc index.md cv.md -o output.html
+          
+          # Utiliser WeasyPrint pour convertir HTML en PDF
+          weasyprint output.html output.pdf
           
           # Vérifier que le PDF a bien été généré
           ls -l output.pdf
 
       - name: Upload PDF as artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v3.1.0
         with:
           name: output-pdf
           path: output.pdf
