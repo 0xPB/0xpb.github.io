@@ -1,1 +1,33 @@
-a
+name: Convert Markdown to PDF
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install Pandoc and LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+
+      - name: Convert Markdown to PDF
+        run: |
+          # Combiner index.md et cv.md en un seul PDF
+          pandoc index.md cv.md -o output.pdf
+          
+          # Vérifier que le PDF a bien été généré
+          ls -l output.pdf
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: output-pdf
+          path: output.pdf
