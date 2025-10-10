@@ -1,6 +1,5 @@
 name: CI
 
-# Controls when the workflow will run
 on:
   push:
     branches: [ "main" ]
@@ -16,11 +15,17 @@ jobs:
       # Checkout the code
       - uses: actions/checkout@v4
 
-      # Convert cv.md to cv.pdf using the pandoc/latex Docker image
-      - name: Convert cv.md to cv.pdf using pandoc/latex
-        uses: docker://pandoc/latex:latest  # Utiliser le conteneur pandoc/latex avec pdflatex
+      # Install dependencies (Pandoc with LaTeX)
+      - name: Install pandoc/latex Docker container
+        uses: docker://pandoc/latex:latest
         with:
-          args: cv.md -o cv.pdf  # Convertir cv.md en cv.pdf
+          args: --version
+
+      # Convert cv.md to cv.pdf using pandoc/latex and custom CSS
+      - name: Convert cv.md to cv.pdf using pandoc/latex with custom CSS
+        uses: docker://pandoc/latex:latest
+        with:
+          args: cv.md -o cv.pdf --css assets/css/style.css  # Utiliser le fichier CSS personnalisé
 
       # Check if the PDF was generated
       - name: Check if cv.pdf is generated
