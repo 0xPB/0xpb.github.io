@@ -16,7 +16,7 @@
 ## Expériences Professionnelles
 
 ### Apprentissage | Chargé de Projets Building Infrastructure & Automation
-**🇫🇷 | Siemens France** – *01/09/2023 – Aujourd’hui*  
+**Siemens France** – *01/09/2023 – Aujourd’hui*  
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)
 - Interventions de dépannage à distance  
 - Développement d’outils afin d’automatiser  
