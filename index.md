@@ -5,6 +5,9 @@ permalink: /
 ---
 
 ---
+## CV
+- [Télécharger le CV](cv.pdf)
+---
 
 ## Informations
 - Age : 23 ans
