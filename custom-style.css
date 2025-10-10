@@ -1,0 +1,123 @@
+/* Global Styles */
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #f4f7f6;
+  color: #333;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+/* Container for the whole CV */
+.container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Header section */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+header h1 {
+  font-size: 36px;
+  color: #333;
+  margin: 0;
+}
+
+header h2 {
+  font-size: 18px;
+  color: #777;
+  margin: 5px 0 0;
+}
+
+header .contact {
+  margin-top: 15px;
+}
+
+header .contact a {
+  color: #333;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+header .contact a:hover {
+  color: #0066cc;
+}
+
+/* Section Titles */
+section h2 {
+  font-size: 22px;
+  color: #0066cc;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #0066cc;
+  padding-bottom: 5px;
+}
+
+/* Main content layout */
+section {
+  margin-bottom: 30px;
+}
+
+/* Experience and Education Lists */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 15px;
+}
+
+ul li h3 {
+  font-size: 18px;
+  color: #0066cc;
+  margin: 0;
+}
+
+ul li .details {
+  color: #777;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+/* Skills List */
+ul.skills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+ul.skills li {
+  background-color: #0066cc;
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 20px;
+  font-size: 14px;
+}
+
+/* Education section */
+section .education ul li {
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-left: 4px solid #0066cc;
+  margin-bottom: 10px;
+}
+
+section .education ul li h3 {
+  color: #333;
+}
+
+/* Footer section */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 14px;
+  color: #777;
+}
