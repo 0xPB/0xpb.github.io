@@ -25,7 +25,7 @@ jobs:
       - name: Convert cv.md to cv.pdf using pandoc/latex with custom CSS
         uses: docker://pandoc/latex:latest
         with:
-          args: cv.md -o cv.pdf --variable=geometry:"margin=1cm"
+          args: cv.md -o cv.pdf --variable=geometry:"margin=10mm"
 
       # Check if the PDF was generated
       - name: Check if cv.pdf is generated
