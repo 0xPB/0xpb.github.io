@@ -1,10 +1,4 @@
----
-layout: default
-title: CV
-permalink: /
----
-
----
+# Paul BRUNO
 
 ## Informations
 - Age : 23 ans
@@ -29,20 +23,20 @@ permalink: /
 - Mise en place de solutions pour la continuité de service  
 
 ### Stage International | Chargé de Projets Building Infrastructure & Automation
-**🇧🇬 | Siemens Global Business Services Bulgaria - Global Engineering Center of ExCellence** – *28/05/2025 – 22/07/2025*  
+**Siemens Global Business Services Bulgaria - Global Engineering Center of ExCellence** – *28/05/2025 – 22/07/2025*  
 - Communication exclusivement en **Anglais (Professionnel et Technique)**
 - Developpement d'un outil d'automatisation d'une partie du controle qualité realtif aux migrations de projets de **Desigo Insight** vers **Desigo Control Center** 
 - Migrations de projets de Gestion Technique du Bâtiment (GTB) de **Desigo Insight** vers **Desigo Control Center**
 
 ### Apprentissage | Technicien de Mise en Service BIA
-**🇫🇷 | Siemens France** – *01/09/2022 – 15/08/2023*
+**Siemens France** – *01/09/2022 – 15/08/2023*
 - Développement d'un logiciel afin d'automatiser la vue des stocks en temps lors de la crise du Covid-19 afin d'informer les clients sur les délais de livraisons (Python, Excel)
 - Développement d'un logiciel de génération de plannings de projets au format Excel (Python)
 - Migrations de projets de Gestion Technique du Bâtiment (GTB) de **Desigo Insight** vers **Desigo Control Center**
 - Communication (Présentations aux équipes commerciales et techniques)
 
 ### Stage | Roboticien  
-**🇫🇷 | Aerospline** – *04/04/2022 – 10/06/2022*  
+**Aerospline** – *04/04/2022 – 10/06/2022*  
 - Preuve de concept (POC) d’une **Machine-Outil à Commande Numérique (MOCN)** pour un grand groupe aéronautique français pour vérifier des points de conformités sur des pièces mécaniques
 - Reverse-Engineering d'une machine 3 axes
 - Developpement sur de l'embarqué en Python et C++ via microcôntroleurs Raspberry Pi et Arduino
