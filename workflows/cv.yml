@@ -1,4 +1,4 @@
-name: Simple Usage
+name: Generate PDF from cv.md
 
 on:
   push:
@@ -10,27 +10,27 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
-      # Étape 1 : Checkout du code (récupère les fichiers .md)
+      # Étape 1 : Checkout du code
       - name: Checkout code
         uses: actions/checkout@v3
 
-      # Étape 2 : Utiliser Docker pour convertir cv.md en cv.pdf via Pandoc
-      - name: Convert cv.md to cv.pdf via Pandoc Docker
+      # Étape 2 : Utilisation de Docker pour convertir cv.md en cv.pdf via Pandoc
+      - name: Convert cv.md to cv.pdf
         uses: docker://pandoc/core:3.5
         with:
-          args: cv.md -o cv.pdf  # Convertir le fichier cv.md en cv.pdf
+          args: cv.md -o cv.pdf  # Convertir cv.md en cv.pdf
 
-      # Étape 3 : Vérification du fichier PDF généré
+      # Étape 3 : Vérifier si le fichier PDF a été généré
       - name: Check if cv.pdf is generated
         run: |
           if [ -f cv.pdf ]; then
             echo "cv.pdf successfully generated!"
           else
             echo "cv.pdf not found!"
-            exit 1  # Sortir avec une erreur si le fichier n'est pas trouvé
+            exit 1  # Faire échouer l'action si le fichier n'existe pas
           fi
 
-      # Étape 4 : Sauvegarder le PDF généré comme un artifact
+      # Étape 4 : Télécharger le fichier PDF généré en tant qu'artifact
       - name: Upload cv.pdf as artifact
         uses: actions/upload-artifact@v3
         with:
