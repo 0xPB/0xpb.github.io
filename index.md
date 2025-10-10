@@ -114,11 +114,11 @@ GBS : Global Business Services
 ### Développement Web
 - HTML / CSS / JavaScript  
 - Node.js  
-- Jekyll (Markdown-like)  
+- Jekyll  
 
 ### Développement Logiciel
 - Python  
-- C  
+- C / C++ / C# 
 - Java  
 
 ### DevOps & Outils
@@ -161,21 +161,21 @@ GBS : Global Business Services
 - Compatibilité Windows & Linux, avec support multi-thèmes (clair/sombre).
 - Collaboration en binôme dans le cadre de la Licence Pro SARII.
 
-### [CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)](https://github.com/0xPB/CandyCash)**
+### [CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js / MongoDB)](https://github.com/0xPB/CandyCash)
 - Développement d’une application web ludique pour suivre la performance des actions et tendances de marché en temps réel.
 - Frontend (Vue.js, Chart.js) : interface interactive, visualisations dynamiques, gestion des favoris.
 - Backend (Node.js, Express, MongoDB, Socket.io) : API sécurisée, gestion utilisateurs, notifications temps réel.
 - Python script CandyCash.py : outil centralisé pour gérer les services (ouverture/fermeture des ports, lancement frontend/backend/chat).
 - Projet collaboratif avec 3 développeurs dans un cadre académique.
 
-### [Automatisation d’un bras Dobot avec construction en Kapla (Python / Raspberry Pi / Dobot)](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building)**
+### [Automatisation d’un bras Dobot avec construction en Kapla (Python / Raspberry Pi / Dobot)](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building)
 - Conception d’un système automatisé pour piloter un bras robotique Dobot et construire des structures avec des Kapla à partir d’instructions JSON.
 - Contrôle du Dobot via communication série et librairies Python (pydobot, dobot_extensions).
 - Gestion des servo-moteurs et GPIO du Raspberry Pi pour le positionnement précis.
 - Automatisation du cycle de prise, rotation et placement des Kapla.
 - Architecture modulaire facilitant l’extension et l’ajout de nouvelles logiques de contrôle.
 
-### [Slime : Application de messagerie en temps réel avec partage de fichiers (C / SQLite / Client-Serveur)](https://github.com/0xPB/RI-2A-Slime-Messaging)**
+### [Slime : Application de messagerie en temps réel avec partage de fichiers (C / SQLite / Client-Serveur)](https://github.com/0xPB/RI-2A-Slime-Messaging)
 - Développement d’une application de messagerie temps réel avec gestion de canaux multiples et possibilité de partage de fichiers.
 - Architecture client-serveur en C, avec base de données SQLite pour la gestion des utilisateurs et canaux.
 - Fonctionnalités principales : création/suppression de canaux, connexion/déconnexion, envoi/réception de fichiers, commandes administrateur.
