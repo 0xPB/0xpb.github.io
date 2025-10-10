@@ -20,7 +20,17 @@ jobs:
         with:
           args: cv.md -o cv.pdf  # Convertir le fichier cv.md en cv.pdf
 
-      # Étape 3 : Sauvegarder le PDF généré comme un artifact
+      # Étape 3 : Vérification du fichier PDF généré
+      - name: Check if cv.pdf is generated
+        run: |
+          if [ -f cv.pdf ]; then
+            echo "cv.pdf successfully generated!"
+          else
+            echo "cv.pdf not found!"
+            exit 1  # Sortir avec une erreur si le fichier n'est pas trouvé
+          fi
+
+      # Étape 4 : Sauvegarder le PDF généré comme un artifact
       - name: Upload cv.pdf as artifact
         uses: actions/upload-artifact@v3
         with:
