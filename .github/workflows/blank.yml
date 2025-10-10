@@ -2,46 +2,39 @@ name: CI
 
 # Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      # Checkout the code
       - uses: actions/checkout@v4
 
-      # Use the Pandoc Docker container to convert the markdown to PDF
-      - name: Convert cv.md to cv.pdf using Pandoc Docker
-        uses: docker://pandoc/core:3.5
+      # Convert cv.md to cv.pdf using the pandoc/latex Docker image
+      - name: Convert cv.md to cv.pdf using pandoc/latex
+        uses: docker://pandoc/latex:latest  # Utiliser le conteneur pandoc/latex avec pdflatex
         with:
-          args: cv.md -o cv.pdf  # Convertir le fichier Markdown en PDF
+          args: cv.md -o cv.pdf  # Convertir cv.md en cv.pdf
 
-      # Vérifier si le PDF a bien été généré
+      # Check if the PDF was generated
       - name: Check if cv.pdf is generated
         run: |
           if [ -f cv.pdf ]; then
             echo "cv.pdf successfully generated!"
           else
             echo "cv.pdf not found!"
-            exit 1  # Faire échouer l'action si le fichier n'est pas trouvé
+            exit 1  # Fail if the file is not found
           fi
 
-      # Télécharger le fichier PDF généré comme un artifact
+      # Upload cv.pdf as artifact
       - name: Upload cv.pdf as artifact
-        uses: actions/upload-artifact@v4  # Mise à jour vers la version 4
+        uses: actions/upload-artifact@v4
         with:
           name: cv-pdf
-          path: cv.pdf  # Télécharger le fichier PDF généré
+          path: cv.pdf  # Upload the PDF file
