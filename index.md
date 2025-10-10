@@ -5,14 +5,16 @@ permalink: /
 ---
 
 ---
+
 ## CV
 - [Télécharger le CV](CV_Paul_BRUNO.pdf)
+
 ---
 
 ## Informations
 - Age : 23 ans
 - Localisation : Bordeaux
-- Permis B (avec voiture)
+- Permis B - avec voiture
   
 ---
 
