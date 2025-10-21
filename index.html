@@ -6,9 +6,205 @@
   <title>Paul BRUNO — CV & Portfolio</title>
   <meta name="description" content="CV & portfolio de Paul BRUNO — apprentissage ingénieur réseaux & informatique, projets, expériences et contact." />
   <link rel="icon" href="data:," />
-  <!-- Google Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
+  <style>
+    :root{
+      --accent: #009de0;
+      --bg: #ffffff;
+      --muted: #6b7280;
+      --text: #0f1724;
+      --card-shadow: 0 6px 18px rgba(2,6,23,0.06);
+      --radius: 12px;
+      --glass: rgba(255,255,255,0.7);
+    }
+
+    /* Reset & base */
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{
+      margin:0;
+      font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+      background:linear-gradient(180deg, #f7fbff 0%, #ffffff 100%);
+      color:var(--text);
+      -webkit-font-smoothing:antialiased;
+      -moz-osx-font-smoothing:grayscale;
+      line-height:1.5;
+    }
+
+    a{color:var(--accent); text-decoration:none}
+    a:hover{text-decoration:underline}
+
+    /* Layout */
+    .container{
+      max-width:1100px;
+      margin:40px auto;
+      padding:28px;
+    }
+
+    header{
+      display:flex;
+      gap:20px;
+      align-items:center;
+      justify-content:space-between;
+      margin-bottom:28px;
+    }
+
+    .brand{
+      display:flex;
+      gap:16px;
+      align-items:center;
+    }
+
+    .logo{
+      width:72px;
+      height:72px;
+      flex:0 0 72px;
+      border-radius:14px;
+      background:linear-gradient(135deg,var(--accent), #1fb3ea 80%);
+      display:flex;
+      align-items:center;
+      justify-content:center;
+      color:white;
+      font-weight:700;
+      box-shadow: var(--card-shadow);
+    }
+
+    .name{
+      line-height:1;
+    }
+    .name h1{margin:0;font-size:20px}
+    .name p{margin:2px 0 0;font-size:13px;color:var(--muted)}
+
+    .ctas{
+      display:flex;
+      gap:12px;
+      align-items:center;
+    }
+    .btn{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      padding:10px 14px;
+      border-radius:10px;
+      background:var(--accent);
+      color:white;
+      font-weight:600;
+      box-shadow: 0 8px 24px rgba(0,157,224,0.18);
+      border: none;
+    }
+    .btn.secondary{
+      background:transparent;
+      color:var(--accent);
+      border: 2px solid var(--accent);
+      box-shadow:none;
+      font-weight:600;
+    }
+
+    main{
+      display:grid;
+      grid-template-columns: 1fr 360px;
+      gap:28px;
+      align-items:start;
+    }
+
+    /* Left column content */
+    .card{
+      background:var(--bg);
+      border-radius:var(--radius);
+      padding:18px;
+      box-shadow:var(--card-shadow);
+    }
+
+    .section{
+      margin-bottom:18px;
+    }
+    .section h2{
+      font-size:16px;
+      margin:0 0 10px 0;
+      display:flex;
+      align-items:center;
+      gap:8px;
+    }
+    .muted{color:var(--muted);font-size:14px}
+
+    /* About text */
+    .about p{margin:0 0 8px 0}
+
+    /* Experiences timeline */
+    .timeline{display:flex;flex-direction:column;gap:12px}
+    .job{
+      border-left:3px solid rgba(0,0,0,0.04);
+      padding:12px 12px 12px 18px;
+      background:linear-gradient(180deg, rgba(0,0,0,0.01), rgba(0,0,0,0.00));
+      border-radius:10px;
+    }
+    .job .job-meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .job .company{font-weight:700}
+    .badge{
+      background:var(--accent);
+      color:white;
+      padding:4px 8px;
+      border-radius:999px;
+      font-size:12px;
+      display:inline-flex;
+      gap:6px;
+      align-items:center;
+    }
+
+    /* Right column (sidebar) */
+    aside{position:relative}
+    .info-list{display:grid;gap:8px}
+    .info-item{display:flex;justify-content:space-between;align-items:center;padding:8px;border-radius:8px;background:linear-gradient(180deg,#fff,#fbfeff)}
+    .contact a{display:block}
+
+    /* Skills grid */
+    .skills-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
+    .skill-pill{background:linear-gradient(90deg, rgba(0,157,224,0.06), rgba(0,157,224,0.02));padding:8px;border-radius:8px;font-size:13px}
+
+    /* Projects */
+    .projects{display:grid;gap:12px}
+    .project{padding:12px;border-radius:10px;border:1px solid rgba(2,6,23,0.04);background:#fff}
+    .project a{font-weight:600}
+
+    /* Footer */
+    footer{margin-top:30px;text-align:center;color:var(--muted);font-size:13px;padding:20px 0}
+
+    /* Responsive */
+    @media (max-width:980px){
+      main{grid-template-columns:1fr}
+      .ctas{display:none}
+      .logo{width:60px;height:60px}
+    }
+
+    @media (max-width:520px){
+      .container{padding:18px;margin:18px auto}
+      .name h1{font-size:18px}
+    }
+
+    /* small utilities */
+    .muted-small{color:var(--muted);font-size:13px}
+    .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+    .tag{font-size:12px;padding:6px 8px;border-radius:8px;background:rgba(0,157,224,0.08);color:var(--accent)}
+    .download{
+      display:inline-flex;
+      gap:10px;
+      align-items:center;
+      padding:10px 12px;
+      border-radius:10px;
+      border:1px dashed rgba(0,157,224,0.16);
+      color:var(--accent);
+      background:linear-gradient(180deg, rgba(0,157,224,0.02), rgba(255,255,255,0.6));
+    }
+
+    /* small icon */
+    .icon{width:16px;height:16px;display:inline-block;vertical-align:middle}
+    nav{display:flex;gap:12px;align-items:center}
+    nav a{font-size:14px;color:var(--muted)}
+    nav a.active{color:var(--accent);font-weight:600}
+
+    /* smooth anchor scroll */
+    html{scroll-behavior:smooth}
+  </style>
 </head>
 <body>
   <div class="container">
@@ -17,35 +213,32 @@
         <div class="logo">PB</div>
         <div class="name">
           <h1>Paul BRUNO</h1>
-          <p>Apprenti Ingénieur — Réseaux & Informatique • ENSEIRB-MATMECA</p>
+          <p>Apprenti Ingénieur — Réseaux & Informatique • Institut Polytechnique de Bordeaux • ENSEIRB-MATMECA</p>
         </div>
       </div>
 
       <div class="ctas">
         <a class="btn" href="mailto:pro@paul-bruno.net">Contact</a>
-        <a class="btn secondary" href="CV_Paul_BRUNO.pdf" download>Télécharger le CV</a>
+        <a class="btn secondary" href="CV_Paul_BRUNO.pdf" download> Télécharger le CV </a>
       </div>
     </header>
 
     <main>
+      <!-- LEFT: contenu principal -->
       <div>
-        <!-- CV -->
+        <!-- CV / Download -->
         <section class="card section">
           <h2>CV</h2>
           <div class="row" style="justify-content:space-between;align-items:center">
             <div class="muted">Téléchargez mon CV au format PDF</div>
             <a class="download" href="CV_Paul_BRUNO.pdf" download>
-              <svg class="icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-                <path d="M12 3v12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M8 11l4 4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-              </svg>
+              <svg class="icon" viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M12 3v12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M8 11l4 4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
               CV_Paul_BRUNO.pdf
             </a>
           </div>
         </section>
 
-        <!-- À propos -->
+        <!-- A propos -->
         <section id="about" class="card section about">
           <h2>À propos</h2>
           <p>Passionné par le monde industriel et les nouvelles technologies, je suis apprenti ingénieur en réseaux et informatique, à l’ENSEIRB-MATMECA.</p>
@@ -63,7 +256,7 @@
                 <div class="muted-small">Apprentissage — Chargé de Projets Building Infrastructure & Automation (BIA)</div>
                 <div class="muted-small">01/09/2023 – Aujourd’hui</div>
               </div>
-              <ul>
+              <ul style="margin:10px 0 0 16px">
                 <li>Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)</li>
                 <li>Interventions de dépannage à distance</li>
                 <li>Développement d’outils d’automatisation</li>
@@ -73,14 +266,42 @@
 
             <div class="job">
               <div class="job-meta">
-                <div class="badge">🇧🇬 Siemens Bulgarie GBS - Global Engineering Center of Excellence</div>
+                <div class="badge">🇧🇬 Siemens Bulgarie Global Business Services - Global Engineering Center of ExCellence</div>
                 <div class="muted-small">Stage — Chargé de Projets BIA</div>
                 <div class="muted-small">28/05/2025 – 22/07/2025</div>
               </div>
-              <ul>
-                <li>Communication exclusivement en anglais</li>
-                <li>Développement d’un outil d’automatisation du contrôle qualité</li>
+              <ul style="margin:10px 0 0 16px">
+                <li>Communication exclusivement en anglais (Professionnel & Technique)</li>
+                <li>Développement d'un outil d'automatisation du contrôle qualité pour migrations Desigo Insight → Desigo Control Center</li>
                 <li>Migrations de projets de GTB</li>
+              </ul>
+            </div>
+
+            <div class="job">
+              <div class="job-meta">
+                <div class="badge">🇫🇷 Siemens France</div>
+                <div class="muted-small">Apprentissage — Technicien de Mise en Service BIA</div>
+                <div class="muted-small">01/09/2022 – 15/08/2023</div>
+              </div>
+              <ul style="margin:10px 0 0 16px">
+                <li>Logiciel d'affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19</li>
+                <li>Génération de plannings projets (Python)</li>
+                <li>Migrations de projets GTB Desigo Insight → Desigo Control Center</li>
+                <li>Présentations aux équipes commerciales & techniques</li>
+              </ul>
+            </div>
+
+            <div class="job">
+              <div class="job-meta">
+                <div class="badge">🇫🇷 Aerospline</div>
+                <div class="muted-small">Stage — Roboticien</div>
+                <div class="muted-small">04/04/2022 – 10/06/2022</div>
+              </div>
+              <ul style="margin:10px 0 0 16px">
+                <li>POC d’une MOCN pour vérification de conformité de pièces</li>
+                <li>Reverse-engineering machine 3 axes</li>
+                <li>Développement embarqué (Python, C++) sur Raspberry Pi & Arduino</li>
+                <li>IHM, CAO et collaboration mécanique</li>
               </ul>
             </div>
           </div>
@@ -89,9 +310,36 @@
         <!-- Formation -->
         <section id="education" class="card section">
           <h2>Formation</h2>
-          <div>
-            <div><strong>Ingénieur — Réseaux et Informatique</strong><br><span class="muted-small">ENSEIRB-MATMECA — Alternance | 2023 – Aujourd’hui</span></div>
-            <div><strong>Licence Pro — SARII</strong><br><span class="muted-small">IUT Bordeaux — Alternance | 2022 – 2023</span></div>
+          <div style="display:flex;flex-direction:column;gap:10px">
+            <div>
+              <div style="font-weight:700">Ingénieur — Réseaux et Informatique (R&I)</div>
+              <div class="muted-small">Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA — Alternance | 2023 – Aujourd’hui</div>
+            </div>
+
+            <div>
+              <div style="font-weight:700">Bachelor — Réseaux et Informatique (R&I)</div>
+              <div class="muted-small">Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA — Alternance | 2023 – 2024</div>
+            </div>
+
+            <div>
+              <div style="font-weight:700">Licence Pro — Systèmes Automatisés, Réseaux, Informatique Industrielle (SARII)</div>
+              <div class="muted-small">IUT de Bordeaux — Alternance | 2022 – 2023 · Major de promotion · Mention Très Bien</div>
+            </div>
+
+            <div>
+              <div style="font-weight:700">DU Robotique (ROB)</div>
+              <div class="muted-small">IUT de Bordeaux — 2020 – 2022</div>
+            </div>
+
+            <div>
+              <div style="font-weight:700">DUT Génie Électrique et Informatique Industrielle (GEII)</div>
+              <div class="muted-small">IUT de Bordeaux — 2020 – 2022</div>
+            </div>
+
+            <div>
+              <div style="font-weight:700">Baccalauréat Scientifique (BAC S)— option Sciences de l'Ingénieur (SI) - spécialité Informatique et Sciences du Numérique (ISN)</div>
+              <div class="muted-small">Lycée Sud Médoc — 2020 · Mention Bien</div>
+            </div>
           </div>
         </section>
 
@@ -100,8 +348,23 @@
           <h2>Projets</h2>
           <div class="projects">
             <div class="project">
-              <a href="https://github.com/0xPB/CandyCash" target="_blank">CandyCash : Dashboard financier (Vue.js / Node.js)</a>
-              <div class="muted-small">Frontend Vue.js, backend Node/Express, MongoDB.</div>
+              <a href="https://github.com/0xPB/SARII-TutoredProjectCobotUR3" target="_blank" rel="noopener">Projet Tutoré : Cobot UR3 avec pince Robotiq (Python)</a>
+              <div class="muted-small">Application Python de pilotage UR3, IHM Tkinter, sécurité logicielle, multi-plateforme.</div>
+            </div>
+
+            <div class="project">
+              <a href="https://github.com/0xPB/CandyCash" target="_blank" rel="noopener">CandyCash : Tableau de bord financier temps réel (Vue.js / Node.js)</a>
+              <div class="muted-small">Frontend Vue.js, backend Node/Express, MongoDB, socket realtime.</div>
+            </div>
+
+            <div class="project">
+              <a href="https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building" target="_blank" rel="noopener">Automatisation bras Dobot — Kapla (Python / Raspberry Pi)</a>
+              <div class="muted-small">Pilotage Dobot, architecture modulaire, contrôle via JSON.</div>
+            </div>
+
+            <div class="project">
+              <a href="https://github.com/0xPB/RI-2A-Slime-Messaging" target="_blank" rel="noopener">Slime : Application de messagerie (C / SQLite)</a>
+              <div class="muted-small">Client-serveur en C, partage de fichiers, gestion canaux et admin.</div>
             </div>
           </div>
         </section>
@@ -109,28 +372,94 @@
         <!-- Certifications -->
         <section class="card section">
           <h2>Certifications</h2>
-          <ul>
+          <ul style="margin:8px 0 0 16px">
             <li>TOEIC — <strong>925/990</strong></li>
-            <li>PSC1 — Prévention et secours civiques</li>
+            <li>PSC1 — Prévention et secours civiques de niveau 1</li>
+            <li>Habilitations électriques B0V & B1V — <em>Expirées</em></li>
           </ul>
         </section>
       </div>
 
-      <!-- Sidebar -->
+      <!-- RIGHT: sidebar -->
       <aside>
         <div class="card section contact" id="contact">
           <h2>Contact</h2>
           <div class="info-list">
             <div class="info-item"><div>Email</div><div><a href="mailto:pro@paul-bruno.net">pro@paul-bruno.net</a></div></div>
-            <div class="info-item"><div>LinkedIn</div><div><a href="https://www.linkedin.com/in/paulbruno33" target="_blank">linkedin.com/in/paulbruno33</a></div></div>
+            <div class="info-item"><div>LinkedIn</div><div><a href="https://www.linkedin.com/in/paulbruno33" target="_blank" rel="noopener">linkedin.com/in/paulbruno33</a></div></div>
+            <div class="info-item"><div>Localisation</div><div>Bordeaux, France</div></div>
+            <div class="info-item"><div>Âge</div><div>23 ans</div></div>
+            <div class="info-item"><div>Permis</div><div>B • Avec véhicule</div></div>
           </div>
         </div>
+
+        <div class="card section">
+          <h2>Compétences & Connaissances</h2>
+
+          <h3 style="margin:8px 0 6px 0;font-size:14px">Industrie</h3>
+          <div class="skills-grid">
+            <div class="skill-pill">Automatisme (GRAFCET, LADDER, Schéma à contacts)</div>
+            <div class="skill-pill">Supervision Industrielle</div>
+            <div class="skill-pill">ModBus, BACnet</div>
+            <div class="skill-pill">Robotique (ROS1, RobotDK, Cura)</div>
+            <div class="skill-pill">SIEMENS Desigo Control Center</div>
+            <div class="skill-pill">SIEMENS Desigo Insight</div>
+            <div class="skill-pill">SIEMENS TIA Portal</div>
+            <div class="skill-pill">CODRA Panorama Studio</div>
+          </div>
+
+          <h3 style="margin:12px 0 6px 0;font-size:14px">Systèmes & Réseaux</h3>
+          <div class="skills-grid">
+            <div class="skill-pill">Administration Linux / Windows</div>
+            <div class="skill-pill">Virtualisation : VMware, VirtualBox </div>
+            <div class="skill-pill">TCP/IP, Wireshark</div>
+            <div class="skill-pill">Sécurité — Recommandations ANSSI</div>
+          </div>
+
+          <h3 style="margin:12px 0 6px 0;font-size:14px">Développement</h3>
+          <div class="skills-grid">
+            <div class="skill-pill">Python, C/C++, Java, C#</div>
+            <div class="skill-pill">HTML / CSS / JS, Node.js</div>
+            <div class="skill-pill">Docker, Git, CI/CD</div>
+            <div class="skill-pill">SQL, MongoDB</div>
+            <div class="skill-pill">Markdown, LaTeX</div>
+          </div>
+
+          <h3 style="margin:12px 0 6px 0;font-size:14px">Électronique & Embarqué</h3>
+          <div class="skills-grid">
+            <div class="skill-pill">Soudures</div>
+            <div class="skill-pill">Microcontrôleurs (Arduino, Raspberry, STM32)</div>
+            <div class="skill-pill">FPGA (VHDL)</div>
+            <div class="skill-pill">Compréhension Datasheets</div>
+          </div>
+          
+          <h3 style="margin:12px 0 6px 0;font-size:14px">Bureautique</h3>
+          <div class="skills-grid">
+            <div class="skill-pill">Excel</div>
+            <div class="skill-pill">Word</div>
+            <div class="skill-pill">PowerPoint</div>
+            <div class="skill-pill">Power BI</div>
+          </div>
+        </div>
+
+        <div class="card section">
+          <h2>Langues</h2>
+          <div class="row" style="justify-content:flex-start">
+            <div class="tag">Français — Natif</div>
+            <div class="tag">Anglais — Professionnel (TOEIC 925)</div>
+          </div>
+        </div>
+
       </aside>
     </main>
 
     <footer>
-      <div>&copy; Paul BRUNO</div>
+      <div>&copy; Paul BRUNO 2025</div>
     </footer>
   </div>
 </body>
 </html>
+
+
+
+
