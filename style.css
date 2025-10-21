@@ -1,0 +1,190 @@
+:root {
+  --accent: #009de0;
+  --bg: #ffffff;
+  --muted: #6b7280;
+  --text: #0f1724;
+  --card-shadow: 0 6px 18px rgba(2,6,23,0.06);
+  --radius: 12px;
+}
+
+/* Reset & base */
+* { box-sizing: border-box; }
+html, body { height: 100%; scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+  background: linear-gradient(180deg, #f7fbff 0%, #ffffff 100%);
+  color: var(--text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+/* Layout */
+.container { max-width: 1100px; margin: 40px auto; padding: 28px; }
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 28px;
+  gap: 20px;
+}
+
+.brand { display: flex; gap: 16px; align-items: center; }
+
+.logo {
+  width: 72px; height: 72px; border-radius: 14px;
+  background: linear-gradient(135deg, var(--accent), #1fb3ea 80%);
+  display: flex; justify-content: center; align-items: center;
+  color: white; font-weight: 700;
+  box-shadow: var(--card-shadow);
+}
+
+.name h1 { margin: 0; font-size: 20px; }
+.name p { margin: 2px 0 0; font-size: 13px; color: var(--muted); }
+
+/* Buttons */
+.ctas { display: flex; gap: 12px; align-items: center; }
+.btn {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 10px 14px; border-radius: 10px;
+  background: var(--accent); color: white; font-weight: 600;
+  border: none; box-shadow: 0 8px 24px rgba(0,157,224,0.18);
+}
+.btn.secondary {
+  background: transparent; color: var(--accent);
+  border: 2px solid var(--accent); box-shadow: none;
+}
+
+/* Grid */
+main {
+  display: grid;
+  grid-template-columns: 1fr 360px;
+  gap: 28px;
+  align-items: start;
+}
+
+.card {
+  background: var(--bg);
+  border-radius: var(--radius);
+  padding: 18px;
+  box-shadow: var(--card-shadow);
+}
+
+.section { margin-bottom: 18px; }
+.section h2 { font-size: 16px; margin: 0 0 10px; }
+.muted { color: var(--muted); font-size: 14px; }
+
+/* About */
+.about p { margin: 0 0 8px; }
+
+/* Experience */
+.timeline { display: flex; flex-direction: column; gap: 12px; }
+.job {
+  border-left: 3px solid rgba(0,0,0,0.04);
+  padding: 12px 18px;
+  border-radius: 10px;
+}
+.job .job-meta {
+  display: flex; gap: 10px; align-items: center; flex-wrap: wrap;
+}
+.badge {
+  background: var(--accent); color: white;
+  padding: 4px 8px; border-radius: 999px;
+  font-size: 12px; display: inline-flex; gap: 6px; align-items: center;
+}
+.muted-small { color: var(--muted); font-size: 13px; }
+
+/* Projects */
+.projects { display: grid; gap: 12px; }
+.project {
+  padding: 12px;
+  border: 1px solid rgba(2,6,23,0.04);
+  border-radius: 10px;
+  background: #fff;
+}
+.project a { font-weight: 600; }
+
+/* Sidebar */
+aside { position: relative; }
+.info-list { display: grid; gap: 8px; }
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  border-radius: 8px;
+  background: linear-gradient(180deg,#fff,#fbfeff);
+}
+.contact a { display: block; }
+
+/* Skills */
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  gap: 8px;
+}
+.skill-pill {
+  background: linear-gradient(90deg, rgba(0,157,224,0.06), rgba(0,157,224,0.02));
+  padding: 8px;
+  border-radius: 8px;
+  font-size: 13px;
+}
+
+/* Footer */
+footer {
+  margin-top: 30px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+  padding: 20px 0;
+}
+
+/* Utilities */
+.row { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.download {
+  display: inline-flex;
+  gap: 10px;
+  align-items: center;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px dashed rgba(0,157,224,0.16);
+  color: var(--accent);
+  background: linear-gradient(180deg, rgba(0,157,224,0.02), rgba(255,255,255,0.6));
+}
+.icon { width: 16px; height: 16px; display: inline-block; vertical-align: middle; }
+
+/* Responsive */
+@media (max-width: 980px) {
+  main { grid-template-columns: 1fr; }
+  .ctas { display: none; }
+  .logo { width: 60px; height: 60px; }
+
+  /* Correction espacement entre contact et certifications */
+  aside {
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 520px) {
+  .container { padding: 18px; margin: 18px auto; }
+  .name h1 { font-size: 18px; }
+
+  /* Espacements verticaux uniformes */
+  .section {
+    margin-bottom: 24px;
+  }
+
+  .card.section:last-of-type {
+    margin-bottom: 32px; /* espace avant footer */
+  }
+
+  footer {
+    margin-top: 40px;
+  }
+}
