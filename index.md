@@ -8,8 +8,8 @@ title: "Paul BRUNO — CV & Portfolio"
 - 23 ans
 - Permis B (avec véhicule)
 - [pro@paul-bruno.net](mailto:pro@paul-bruno.net)  
-- [linkedin.com/in/paulbruno33](https://www.linkedin.com/in/paulbruno33)  
-- [Télécharger le CV (PDF)](CV_Paul_BRUNO.pdf)
+- [LinkedIn](https://www.linkedin.com/in/paulbruno33)  
+- [Télécharger mon CV](CV_Paul_BRUNO.pdf)
 
 ---
 
@@ -26,33 +26,28 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 ## EXPÉRIENCES PROFESSIONNELLES
 
 ### Siemens France — Chargé de Projets Building Infrastructure & Automation
-01/09/2023 – Aujourd’hui ● Alternance
+01/09/2023 – 28/08/2026 ● Alternance
 
-- Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)  
-- Interventions de dépannage à distance  
+- Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment
+- Interventions sur sites et à distance
 - Développement d’outils d’automatisation  
-- Mise en place de solutions pour la continuité de service # Machines
-
----
-
+- Mise en place de solutions pour la continuité de service
+- Migrations de projets Desigo Insight vers Desigo Control Center
+   
 ### Siemens Bulgarie — Chargé de Projets Building Infrastructure & Automation
 28/05/2025 – 22/07/2025 ● Stage
 
-- Communication exclusivement en Anglais  
-- Développement d’un outil d’automatisation du contrôle qualité pour les migrations Desigo Insight → Desigo Control Center  
-- Réalisation de migrations de projets de GTB
+- Communication exclusivement en Anglais (Professionnel et Technique)
+- Développement d’un outil d’automatisation du contrôle qualité pour les migrations de projets de  Desigo Insight vers Desigo Control Center  
+- Migrations de projets Desigo Insight vers Desigo Control Center
 
----
-
-### Siemens France — Technicien de mise en service Building Infrastructure & Automation
+### Siemens France — Technicien de Mise en Service Building Infrastructure & Automation
 01/09/2022 – 15/08/2023 ● Alternance
 
 - Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19  
-- Génération automatisée de plannings projets (Python)  
-- Migrations de projets GTB Desigo Insight → Desigo Control Center  
+- Développement d'un logiciel de génération automatisée de plannings projets (Python)  
+- Migrations de projets Desigo Insight vers Desigo Control Center  
 - Présentations aux équipes commerciales et techniques
-
----
 
 ### Aerospline — Roboticien  
 04/04/2022 – 10/06/2022 ● Stage
@@ -64,7 +59,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-## Formation
+## FORMATION
 
 - **Ingénieur — Réseaux et Informatique**  
   Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA  
@@ -92,7 +87,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-## Projets
+## PROJETS
 
 - [**Projet Tutoré : Cobot UR3 avec pince Robotiq (Python)**](https://github.com/0xPB/SARII-TutoredProjectCobotUR3)  
   Application Python de pilotage UR3 avec IHM Tkinter, sécurité logicielle et compatibilité multi-plateforme.
@@ -108,7 +103,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-## Compétences
+## COMPÉTENCES & CONNAISSANCES
 
 ### Industrie
 - Automatisme (GRAFCET, Ladder, schémas à contacts)  
@@ -138,7 +133,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 - Docker, Git, CI/CD  
 - SQL, MongoDB  
 - Markdown, LaTeX
-- Bash, Batch
+- Bash, Batch, PowerShell
 
 ### Électronique & Embarqué
 - Soudures  
@@ -156,8 +151,8 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ## Certifications
 
-- TOEIC — 925 / 990  
-- PSC1 — Prévention et secours civiques de niveau 1  
+- TOEIC — 925 / 990 - Anglais Professionnel, Courant et Technique
+- PSC1 — Prévention et Secours Civiques de niveau 1  
 - Habilitations électriques B0V & B1V 
 
 ---
