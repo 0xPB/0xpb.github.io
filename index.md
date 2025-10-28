@@ -25,8 +25,8 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-### Siemens France — Chargé de Projets Building Infrastructure & Automation | Alternance
-01/09/2023 – Aujourd’hui
+### Siemens France — Chargé de Projets Building Infrastructure & Automation
+01/09/2023 – Aujourd’hui ● Alternance
 
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)  
 - Interventions de dépannage à distance  
@@ -35,8 +35,8 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-### Siemens Bulgarie — Chargé de Projets Building Infrastructure & Automation | Stage
-28/05/2025 – 22/07/2025
+### Siemens Bulgarie — Chargé de Projets Building Infrastructure & Automation
+28/05/2025 – 22/07/2025 ● Stage
 
 - Communication exclusivement en Anglais  
 - Développement d’un outil d’automatisation du contrôle qualité pour les migrations Desigo Insight → Desigo Control Center  
@@ -44,8 +44,8 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-### Siemens France — Technicien de mise en service Building Infrastructure & Automation | Alternance
-01/09/2022 – 15/08/2023
+### Siemens France — Technicien de mise en service Building Infrastructure & Automation
+01/09/2022 – 15/08/2023 ● Alternance
 
 - Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19  
 - Génération automatisée de plannings projets (Python)  
@@ -54,13 +54,13 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-### Aerospline — Stage — Roboticien  
-04/04/2022 – 10/06/2022
+### Aerospline — Roboticien  
+04/04/2022 – 10/06/2022 ● Stage
 
-- POC d’une MOCN pour la vérification de conformité de pièces  
+- POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces  
 - Reverse-engineering d’une machine 3 axes  
 - Développement embarqué (Python, C++) sur Raspberry Pi et Arduino  
-- Réalisation d’IHM, CAO et collaboration avec l’équipe mécanique
+- Réalisation d’IHM, CAO et collaboration avec l'ingénieur en mécanique
 
 ---
 
