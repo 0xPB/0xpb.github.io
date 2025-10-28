@@ -3,19 +3,17 @@ layout: default
 title: "Paul BRUNO — CV & Portfolio"
 ---
 
-# Paul BRUNO
-
-Apprenti Ingénieur — Réseaux & Informatique  
-*Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA*
-
-Bordeaux, France • 23 ans • Permis B (avec véhicule)  
-[pro@paul-bruno.net](mailto:pro@paul-bruno.net)  
-[linkedin.com/in/paulbruno33](https://www.linkedin.com/in/paulbruno33)  
-[Télécharger le CV (PDF)](CV_Paul_BRUNO.pdf)
+- Apprenti Ingénieur Réseaux & Informatique à l'Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA
+- Bordeaux
+- 23 ans
+- Permis B (avec véhicule)
+- [pro@paul-bruno.net](mailto:pro@paul-bruno.net)  
+- [linkedin.com/in/paulbruno33](https://www.linkedin.com/in/paulbruno33)  
+- [Télécharger le CV (PDF)](CV_Paul_BRUNO.pdf)
 
 ---
 
-## À propos
+## À PROPOS
 
 Passionné par le monde industriel et les nouvelles technologies, je suis apprenti ingénieur en réseaux et informatique à l’ENSEIRB-MATMECA.
 
@@ -25,28 +23,28 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-## Expériences professionnelles
+## EXPÉRIENCES PROFESSIONNELLES
 
-### Siemens France — Apprentissage — Chargé de Projets Building Infrastructure & Automation (BIA)  
+### Siemens France — Chargé de Projets Building Infrastructure & Automation | Alternance
 01/09/2023 – Aujourd’hui
 
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment (GTB)  
 - Interventions de dépannage à distance  
 - Développement d’outils d’automatisation  
-- Mise en place de solutions pour la continuité de service
+- Mise en place de solutions pour la continuité de service # Machines
 
 ---
 
-### Siemens Bulgarie — Global Business Services (GBS) — Stage — Chargé de Projets BIA  
+### Siemens Bulgarie — Chargé de Projets Building Infrastructure & Automation | Stage
 28/05/2025 – 22/07/2025
 
-- Communication exclusivement en anglais (professionnelle et technique)  
+- Communication exclusivement en Anglais  
 - Développement d’un outil d’automatisation du contrôle qualité pour les migrations Desigo Insight → Desigo Control Center  
 - Réalisation de migrations de projets de GTB
 
 ---
 
-### Siemens France — Apprentissage — Technicien de Mise en Service BIA  
+### Siemens France — Technicien de mise en service Building Infrastructure & Automation | Alternance
 01/09/2022 – 15/08/2023
 
 - Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19  
@@ -68,27 +66,27 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ## Formation
 
-- **Ingénieur — Réseaux et Informatique (R&I)**  
+- **Ingénieur — Réseaux et Informatique**  
   Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA  
   Alternance | 2023 – Aujourd’hui
 
-- **Bachelor — Réseaux et Informatique (R&I)**  
+- **Bachelor — Réseaux et Informatique**  
   Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA  
   Alternance | 2023 – 2024
 
-- **Licence Pro — Systèmes Automatisés, Réseaux, Informatique Industrielle (SARII)**  
+- **Licence Pro. — Systèmes Automatisés, Réseaux, Informatique Industrielle**  
   IUT de Bordeaux  
   Alternance | 2022 – 2023 · Major de promotion · Mention Très Bien
 
-- **DU Robotique (ROB)**  
+- **DU Robotique**  
   IUT de Bordeaux  
   2020 – 2022
 
-- **DUT Génie Électrique et Informatique Industrielle (GEII)**  
+- **DUT Génie Électrique et Informatique Industrielle**  
   IUT de Bordeaux  
   2020 – 2022
 
-- **Baccalauréat Scientifique (BAC S)** — option Sciences de l’Ingénieur (SI) — spécialité Informatique et Sciences du Numérique (ISN)  
+- **Baccalauréat Scientifique** — option Sciences de l’Ingénieur — spécialité Informatique et Sciences du Numérique  
   Lycée Sud Médoc  
   2020 · Mention Bien
 
@@ -115,11 +113,18 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 ### Industrie
 - Automatisme (GRAFCET, Ladder, schémas à contacts)  
 - Supervision industrielle  
-- Protocoles ModBus, BACnet  
-- Robotique (ROS1, RobotDK, Cura)  
-- Siemens Desigo Control Center / Insight  
-- Siemens TIA Portal  
+- Protocoles ModBus, BACnet, LoRaWAN  
+- Robotique (ROS, RobotDK, Cura)  
 - Codra Panorama Studio
+
+- #### Siemens
+- Desigo Control Center
+- Desigo Insight
+- Desigo Xworks Plus
+- ABT Site
+- Connect Box
+- TIA Portal
+- NodeRed
 
 ### Systèmes & Réseaux
 - Administration Linux / Windows  
@@ -133,12 +138,13 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 - Docker, Git, CI/CD  
 - SQL, MongoDB  
 - Markdown, LaTeX
+- Bash, Batch
 
 ### Électronique & Embarqué
 - Soudures  
 - Microcontrôleurs (Arduino, Raspberry Pi, STM32)  
 - FPGA (VHDL)  
-- Lecture et interprétation de datasheets
+- Compréhension datsheets
 
 ### Bureautique
 - Excel  
@@ -152,14 +158,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 - TOEIC — 925 / 990  
 - PSC1 — Prévention et secours civiques de niveau 1  
-- Habilitations électriques B0V & B1V — expirées
-
----
-
-## Langues
-
-- Français — Natif  
-- Anglais — Professionnel (TOEIC 925)
+- Habilitations électriques B0V & B1V 
 
 ---
 
