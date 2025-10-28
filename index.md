@@ -42,7 +42,7 @@ Stage | 28/05/2025 – 22/07/2025
 - Migrations de projets Desigo Insight vers Desigo Control Center
 
 ### Siemens France — Technicien de Mise en Service Building Infrastructure & Automation
-Alternance| 01/09/2022 – 15/08/2023
+Alternance | 01/09/2022 – 15/08/2023
 
 - Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19  
 - Développement d'un logiciel de génération automatisée de plannings projets (Python)  
