@@ -157,4 +157,10 @@ Stage | 04/04/2022 – 10/06/2022
 
 ---
 
+## CENTRES D'INTÉRÊTS
+- Musculation - 8 ans
+- Tennis - 6 ans
+- Escalade - block
+- Automobile
+
 © Paul BRUNO — 2025
