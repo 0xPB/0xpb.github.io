@@ -6,7 +6,7 @@ title: "Paul BRUNO — CV & Portfolio"
 - Apprenti Ingénieur Réseaux & Informatique à l'Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA
 - Bordeaux
 - 23 ans
-- Permis B (avec véhicule)
+- Permis B - avec véhicule
 - [pro@paul-bruno.net](mailto:pro@paul-bruno.net)  
 - [LinkedIn](https://www.linkedin.com/in/paulbruno33)  
 - [Télécharger mon CV](CV_Paul_BRUNO.pdf)
@@ -26,7 +26,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 ## EXPÉRIENCES PROFESSIONNELLES
 
 ### Siemens France — Chargé de Projets Building Infrastructure & Automation
-01/09/2023 – 28/08/2026 ● Alternance
+Alternance | 01/09/2023 – 28/08/2026
 
 - Gestion d’un portefeuille de projets de Gestion Technique du Bâtiment
 - Interventions sur sites et à distance
@@ -35,14 +35,14 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 - Migrations de projets Desigo Insight vers Desigo Control Center
    
 ### Siemens Bulgarie — Chargé de Projets Building Infrastructure & Automation
-28/05/2025 – 22/07/2025 ● Stage
+Stage | 28/05/2025 – 22/07/2025
 
 - Communication exclusivement en Anglais (Professionnel et Technique)
 - Développement d’un outil d’automatisation du contrôle qualité pour les migrations de projets de  Desigo Insight vers Desigo Control Center  
 - Migrations de projets Desigo Insight vers Desigo Control Center
 
 ### Siemens France — Technicien de Mise en Service Building Infrastructure & Automation
-01/09/2022 – 15/08/2023 ● Alternance
+Alternance| 01/09/2022 – 15/08/2023
 
 - Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel) pendant la crise Covid-19  
 - Développement d'un logiciel de génération automatisée de plannings projets (Python)  
@@ -50,7 +50,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 - Présentations aux équipes commerciales et techniques
 
 ### Aerospline — Roboticien  
-04/04/2022 – 10/06/2022 ● Stage
+Stage | 04/04/2022 – 10/06/2022
 
 - POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces  
 - Reverse-engineering d’une machine 3 axes  
@@ -106,13 +106,13 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 ## COMPÉTENCES & CONNAISSANCES
 
 ### Industrie
-- Automatisme (GRAFCET, Ladder, schémas à contacts)  
+- Automatisme : GRAFCET, Ladder, schémas à contacts
 - Supervision industrielle  
-- Protocoles ModBus, BACnet, LoRaWAN  
-- Robotique (ROS, RobotDK, Cura)  
+- Protocoles : ModBus, BACnet, LoRaWAN  
+- Robotique : ROS, RobotDK, Cura
 - Codra Panorama Studio
 
-- #### Siemens
+#### Siemens
 - Desigo Control Center
 - Desigo Insight
 - Desigo Xworks Plus
@@ -122,10 +122,10 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 - NodeRed
 
 ### Systèmes & Réseaux
-- Administration Linux / Windows  
-- Virtualisation (VMware, VirtualBox)  
+- Administration : Linux, Windows  
+- Virtualisation : VMware, VirtualBox, Hyper-V
 - TCP/IP, Wireshark  
-- Sécurité — Recommandations ANSSI
+- Cybersécurité : Recommandations ANSSI, Outils Kali Linux
 
 ### Développement
 - Python, C/C++, Java, C#  
@@ -149,7 +149,7 @@ Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amél
 
 ---
 
-## Certifications
+## CERTIFICATIONS
 
 - TOEIC — 925 / 990 - Anglais Professionnel, Courant et Technique
 - PSC1 — Prévention et Secours Civiques de niveau 1  
