@@ -1,13 +1,16 @@
 ---
 layout: default
 title: "Paul BRUNO — CV & Portfolio"
+
 ---
+
 ## INFORMATIONS
 - Apprenti Ingénieur Réseaux & Informatique à l'Institut Polytechnique de Bordeaux — ENSEIRB-MATMECA
 - Localisation : Bordeaux
 - Âge : 23 ans
 - Permis B - avec véhicule
 - [CV](CV_Paul_BRUNO.pdf)
+
 ---
 
 ## CONTACT
