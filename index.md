@@ -14,7 +14,7 @@ title: "Paul BRUNO — CV & Portfolio"
 ---
 
 ## CONTACT
-- [pro@paul-bruno.net](mailto:pro@paul-bruno.net)
+- [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me)
 - [LinkedIn](https://www.linkedin.com/in/paulbruno33) 
 
 ---
