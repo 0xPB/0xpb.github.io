@@ -3,15 +3,15 @@
 
 # Paul Bruno
 
-<span class="iconify" data-icon="charm:person"></span> [paulbruno.fr](https://https://0xpb.github.io)
-  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/paulbruno33](https://github.com/paulbruno33)
-  : <span class="iconify" data-icon="tabler:phone"></span> [(+33) 6 12 34 56 78](https://wa.me/33612345678)
+<span class="iconify" data-icon="charm:person"></span> [0xpb.github.io](https://https://0xpb.github.io)
+  : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
+  : <span class="iconify" data-icon="tabler:phone"></span> [(+33) 6 87 60 65 80](tel:+33687606580)
 
 <span class="iconify" data-icon="ic:outline-location-on"></span> Bordeaux, France
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/paulbruno33](https://linkedin.com/in/paulbruno33)
   : <span class="iconify" data-icon="tabler:mail"></span> [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me)
 
----
+___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
