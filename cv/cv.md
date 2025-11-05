@@ -1,5 +1,5 @@
 # Paul BRUNO
-Bordeaux | 23 ans | Permis B - avec véhicule | [CV](CV_Paul_BRUNO.pdf) | [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me) | [LinkedIn](https://www.linkedin.com/in/paulbruno33) 
+Bordeaux | 23 ans | Permis B - avec véhicule | [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me) | [LinkedIn](https://www.linkedin.com/in/paulbruno33) 
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
