@@ -11,7 +11,7 @@ title: "Paul BRUNO — CV & Portfolio"
 - Permis B - avec véhicule
 - [CV Français](cv/CV_FR_Paul_Bruno.pdf)
 - [CV English](cv/CV_EN_Paul_Bruno.pdf)
-- 
+
 ---
 
 ## CONTACT
