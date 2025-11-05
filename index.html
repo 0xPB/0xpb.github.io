@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Paul Bruno — CV & Portfolio</title>
+  <style>
+    /* === RESET === */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Segoe UI', Roboto, sans-serif;
+    }
+
+    body {
+      background-color: #f8f9fb;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    a {
+      text-decoration: none;
+      color: #0078ff;
+    }
+
+    /* === HEADER === */
+    header {
+      background: #ffffff;
+      padding: 50px 20px;
+      text-align: center;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+      color: #111;
+    }
+
+    header h2 {
+      font-weight: 400;
+      color: #555;
+      margin-bottom: 30px;
+    }
+
+    .btn-group {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin-bottom: 40px;
+    }
+
+    .btn {
+      background-color: #0078ff;
+      color: white;
+      padding: 12px 24px;
+      border-radius: 5px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+
+    .btn:hover {
+      background-color: #005fcc;
+    }
+
+    /* === SECTION === */
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    section h2 {
+      color: #0078ff;
+      margin-bottom: 15px;
+      font-size: 1.8rem;
+      border-left: 5px solid #0078ff;
+      padding-left: 10px;
+    }
+
+    section p {
+      margin-bottom: 15px;
+      text-align: justify;
+    }
+
+    /* === PROJETS === */
+    .projects {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin-top: 20px;
+    }
+
+    .project {
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+      padding: 20px;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .project:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+    }
+
+    .project h3 {
+      color: #0078ff;
+      margin-bottom: 10px;
+    }
+
+    .project p {
+      color: #444;
+      font-size: 0.95rem;
+    }
+
+    /* === FOOTER === */
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #ffffff;
+      margin-top: 50px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+      .btn-group { flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Paul Bruno</h1>
+    <h2>Apprenti Ingénieur Réseaux & Informatique — ENSEIRB-MATMECA</h2>
+
+    <div class="btn-group">
+      <a class="btn" href="cv/CV_FR_Paul_Bruno.pdf" download>Télécharger CV Français</a>
+      <a class="btn" href="cv/CV_EN_Paul_Bruno.pdf" download>Télécharger CV Anglais</a>
+    </div>
+  </header>
+
+  <section id="a-propos">
+    <h2>À propos</h2>
+    <p>
+      Passionné par le monde industriel et les nouvelles technologies, je suis apprenti ingénieur en réseaux et informatique à l’ENSEIRB-MATMECA.
+    </p>
+    <p>
+      J’aime analyser, optimiser et améliorer les systèmes pour les rendre plus performants et adaptés aux besoins des entreprises. Curieux et rigoureux, je prends plaisir à résoudre des problématiques complexes en adoptant une approche méthodique et structurée.
+    </p>
+    <p>
+      Mon esprit d’analyse me permet d’identifier rapidement les leviers d’amélioration, tandis que mon sens de l’organisation m’aide à gérer efficacement les projets. Doté d’un bon esprit d’équipe, je m’épanouis dans des environnements collaboratifs. J’aime apprendre en continu et relever de nouveaux défis.
+    </p>
+  </section>
+
+  <section id="projets">
+    <h2>Projets</h2>
+
+    <div class="projects">
+      <div class="project">
+        <h3><a href="https://github.com/0xPB/SARII-TutoredProjectCobotUR3" target="_blank">Projet Cobot UR3 (Python)</a></h3>
+        <p>Application Python de pilotage UR3 avec IHM Tkinter, sécurité logicielle et compatibilité multi-plateforme.</p>
+      </div>
+
+      <div class="project">
+        <h3><a href="https://github.com/0xPB/CandyCash" target="_blank">CandyCash (Vue.js / Node.js)</a></h3>
+        <p>Tableau de bord financier temps réel — frontend Vue.js, backend Node/Express, MongoDB et socket realtime.</p>
+      </div>
+
+      <div class="project">
+        <h3><a href="https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building" target="_blank">Automatisation bras Dobot (Python / Raspberry Pi)</a></h3>
+        <p>Pilotage du bras Dobot avec architecture modulaire et contrôle via JSON.</p>
+      </div>
+
+      <div class="project">
+        <h3><a href="https://github.com/0xPB/RI-2A-Slime-Messaging" target="_blank">Slime — Application de messagerie (C / SQLite)</a></h3>
+        <p>Client-serveur en C, partage de fichiers, gestion des canaux et administrateurs.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    &copy; Paul BRUNO — 2025
+  </footer>
+
+</body>
+</html>
