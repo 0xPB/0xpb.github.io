@@ -3,7 +3,7 @@
 
 # Paul Bruno
 
-<span class="iconify" data-icon="charm:person"></span> [paulbruno.fr](https://paulbruno.fr/)
+<span class="iconify" data-icon="charm:person"></span> [paulbruno.fr](https://https://0xpb.github.io)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/paulbruno33](https://github.com/paulbruno33)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+33) 6 12 34 56 78](https://wa.me/33612345678)
 
@@ -15,30 +15,26 @@
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens FR - Chargé de Projets Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026  
+**Siemens FR - Chargé de Projets Building Infrastructure & Automation (BIA)** · Alternance · 01/09/2023 – 28/08/2026  
 - Developpement d'outils d'automatisation (80% de gains de temps)
 - Migration parc de machines virtuelles - mise en place de solutions pour la continuité de service 
 - Interventions sur sites en client en présentiel et à distance 
-- Migrations de projets Desigo Insight vers Desigo Control Center
 
-**Siemens BG - Chargé de Projets Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
-- Communication exclusivement en Anglais  
-- Développement d’un outil d’automatisation du contrôle qualité pour les migrations de projets (90% de gain de temps) 
-- Migrations de projets Desigo Insight vers Desigo Control Center
+**Siemens BG - Chargé de Projets BIA** · Stage · 28/05/2025 – 22/07/2025  
+- Communication en Anglais
+- Présentations Techniques
+- Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90% de gain de temps)
 
-**Siemens FR - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
-- Développement d’un logiciel d’affichage des stocks en temps réel (Python, Excel)  
-- Développement d’un générateur automatisé de plannings projets (Python)  
-- Migrations de projets Desigo Insight vers Desigo Control Center  
-- Présentations aux équipes commerciales et techniques
+**Siemens FR - Technicien de Mise en Service BIA** · Alternance · 01/09/2022 – 15/08/2023  
+- Développement d’un logiciel d’affichage des stocks en temps réel (95% de gain de temps)
+- Développement d’un générateur automatisé de plannings projets (80% de gain de temps) 
+- Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
 
 **Aerospline- Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
 - POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces  
 - Reverse-engineering d’une machine 3 axes  
 - Développement embarqué (Python, C++) sur Raspberry Pi et Arduino  
 - Réalisation d’IHM, CAO et collaboration avec l’ingénieur en mécanique
-
----
 
 ## FORMATION
 
@@ -49,8 +45,6 @@
 **DUT Génie Électrique et Informatique Industrielle — IUT de Bordeaux** · 2020 – 2022  
 **Baccalauréat Scientifique — option SI — spécialité ISN — Lycée Sud Médoc** · 2020 · Mention Bien
 
----
-
 ## COMPÉTENCES
 
 **Industrie :** Automatisme (GRAFCET, Ladder), Supervision, ModBus, BACnet, LoRaWAN, Robotique (ROS, RobotDK, Cura), Panorama Studio  
@@ -60,15 +54,12 @@
 **Électronique :** Arduino, Raspberry Pi, STM32, FPGA (VHDL), soudure, lecture de datasheets  
 **Bureautique :** Excel, Word, PowerPoint, Power BI
 
----
-
 ## CERTIFICATIONS
 
 - TOEIC — 925 / 990  
 - PSC1 — Prévention et Secours Civiques de niveau 1  
 - Habilitations électriques B0V & B1V
 
----
 
 ## CENTRES D’INTÉRÊT
 
