@@ -9,7 +9,7 @@ title: "Paul BRUNO — CV & Portfolio"
 - Localisation : Bordeaux
 - Âge : 23 ans
 - Permis B - avec véhicule
-- [CV](CV_Paul_BRUNO.pdf)
+- [CV](cv/CV_Paul_Bruno.pdf)
 
 ---
 
