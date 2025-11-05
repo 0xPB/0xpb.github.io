@@ -1,4 +1,4 @@
-# Paul BRUNO
+# Paul Bruno
 Bordeaux | 23 ans | Permis B - avec véhicule | [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me) | [LinkedIn](https://www.linkedin.com/in/paulbruno33) 
 
 ## EXPÉRIENCES PROFESSIONNELLES
@@ -34,8 +34,6 @@ Stage | 04/04/2022 – 10/06/2022
 - Reverse-engineering d’une machine 3 axes  
 - Développement embarqué (Python, C++) sur Raspberry Pi et Arduino  
 - Réalisation d’IHM, CAO et collaboration avec l'ingénieur en mécanique
-
----
 
 ## FORMATION
 
@@ -106,8 +104,6 @@ Stage | 04/04/2022 – 10/06/2022
 - Word  
 - PowerPoint  
 - Power BI
-
----
 
 ## CERTIFICATIONS
 
