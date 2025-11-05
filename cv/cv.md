@@ -15,16 +15,16 @@ ___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens FR - Chargé de Projets Building Infrastructure & Automation (BIA)** · Alternance · 01/09/2023 – 28/08/2026  
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Chargé de Projets Building Infrastructure & Automation (BIA)** · Alternance · 01/09/2023 – 28/08/2026  
 - Developpement d'outils d'automatisation (80% de gains de temps)
 - Migration parc de machines virtuelles - mise en place de solutions pour la continuité de service 
 - Interventions sur sites en client en présentiel et à distance 
 
-**Siemens BG - Chargé de Projets BIA** · Stage · 28/05/2025 – 22/07/2025  
+**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Chargé de Projets BIA** · Stage · 28/05/2025 – 22/07/2025  
 - Communication et Présentations en Anglais
 - Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90% de gain de temps)
 
-**Siemens FR - Technicien de Mise en Service BIA** · Alternance · 01/09/2022 – 15/08/2023  
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Technicien de Mise en Service BIA** · Alternance · 01/09/2022 – 15/08/2023  
 - Développement d’un logiciel d’affichage des stocks en temps réel dû à la crise Covid (95% de gain de temps)
 - Développement d’un générateur automatisé de plannings projets (80% de gain de temps) 
 - Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
