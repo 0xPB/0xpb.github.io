@@ -31,9 +31,8 @@ ___
 - Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
 
 **Aerospline- Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
-- POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces  
-- Reverse-engineering d’une machine 3 axes  
-- Développement embarqué (Python, C++) sur Raspberry Pi et Arduino  
+- POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces 
+- Développement embarqué (Python, C++) sur Raspberry Pi et Arduino, IHM
 - Réalisation d’IHM, CAO et collaboration avec l’ingénieur en mécanique
 
 ## FORMATION
@@ -41,9 +40,9 @@ ___
 - **Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA** - Ingénieur Réseaux et Informatique · Alternance · 2023-2026
 - **Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA** - Bachelor Réseaux et Informatique · Alternance · 2023 – 2024
 - **IUT de Bordeaux** * Licence Professionnelle Systèmes Automatisés, Réseaux, Informatique Industrielle · Alternance · 2022 – 2023 · _Major de Promotion · Mention Très Bien_
-- **IUT de Bordeaux** * DU Robotique · 2020 – 2022
-- **IUT de Bordeaux** * DUT Génie Électrique et Informatique Industrielle · 2020 – 2022
-- **Lycée Sud Médoc** * Baccalauréat Scientifique, option SI, spécialité ISN · 2020 · _Mention Bien_
+- **IUT de Bordeaux** - DU Robotique · 2020 – 2022
+- **IUT de Bordeaux** - DUT Génie Électrique et Informatique Industrielle · 2020 – 2022
+- **Lycée Sud Médoc** - Baccalauréat Scientifique, option Sciences de l'Ingénieur, spécialité Informatique et Sciences du Numérique · 2020  · _Mention Bien_
 
 
 ## COMPÉTENCES
@@ -57,11 +56,11 @@ ___
 
 ## CERTIFICATIONS
 
-- TOEIC * 925 / 990  
-- PSC1 * Prévention et Secours Civiques de niveau 1 
+- TOEIC - 925 / 990  
+- PSC1 - Prévention et Secours Civiques de niveau 1 
 
 
 ## CENTRES D’INTÉRÊT
 
-- Musculation * 8 ans  
-- Tennis * 6 ans
+- Musculation - 8 ans  
+- Tennis - 6 ans
