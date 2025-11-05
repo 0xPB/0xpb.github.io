@@ -21,12 +21,11 @@ ___
 - Interventions sur sites en client en présentiel et à distance 
 
 **Siemens BG - Chargé de Projets BIA** · Stage · 28/05/2025 – 22/07/2025  
-- Communication en Anglais
-- Présentations Techniques
+- Communication et Présentations en Anglais
 - Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90% de gain de temps)
 
 **Siemens FR - Technicien de Mise en Service BIA** · Alternance · 01/09/2022 – 15/08/2023  
-- Développement d’un logiciel d’affichage des stocks en temps réel (95% de gain de temps)
+- Développement d’un logiciel d’affichage des stocks en temps réel dû à la crise Covid (95% de gain de temps)
 - Développement d’un générateur automatisé de plannings projets (80% de gain de temps) 
 - Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
 
