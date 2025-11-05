@@ -38,12 +38,13 @@ ___
 
 ## FORMATION
 
-**Ingénieur — Réseaux et Informatique — Institut Polytechnique de Bordeaux (ENSEIRB-MATMECA)** · Alternance · 2023 – Aujourd’hui  
-**Bachelor — Réseaux et Informatique — Institut Polytechnique de Bordeaux (ENSEIRB-MATMECA)** · Alternance · 2023 – 2024  
-**Licence Pro — Systèmes Automatisés, Réseaux, Informatique Industrielle — IUT de Bordeaux** · Alternance · 2022 – 2023 · Major de promotion · Mention Très Bien  
-**DU Robotique — IUT de Bordeaux** · 2020 – 2022  
-**DUT Génie Électrique et Informatique Industrielle — IUT de Bordeaux** · 2020 – 2022  
-**Baccalauréat Scientifique — option SI — spécialité ISN — Lycée Sud Médoc** · 2020 · Mention Bien
+- **Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA** - Ingénieur Réseaux et Informatique · Alternance · 2023-2026
+- **Institut Polytechnique de Bordeaux - ENSEIRB-MATMECA** - Bachelor Réseaux et Informatique · Alternance · 2023 – 2024
+- **IUT de Bordeaux** — Licence Pro, Systèmes Automatisés, Réseaux, Informatique Industrielle · Alternance · 2022 – 2023 · _Major de Promotion · Mention Très Bien_
+- **IUT de Bordeaux** — DU Robotique · 2020 – 2022
+- **IUT de Bordeaux** — DUT Génie Électrique et Informatique Industrielle · 2020 – 2022
+- **Lycée Sud Médoc** — Baccalauréat Scientifique, option SI, spécialité ISN · 2020 · _Mention Bien_
+
 
 ## COMPÉTENCES
 
@@ -57,8 +58,7 @@ ___
 ## CERTIFICATIONS
 
 - TOEIC — 925 / 990  
-- PSC1 — Prévention et Secours Civiques de niveau 1  
-- Habilitations électriques B0V & B1V
+- PSC1 — Prévention et Secours Civiques de niveau 1 
 
 
 ## CENTRES D’INTÉRÊT
