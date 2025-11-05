@@ -47,12 +47,12 @@
 
 ## COMPÉTENCES
 
-**Industrie :** Automatisme (GRAFCET, Ladder), Supervision, ModBus, BACnet, LoRaWAN, Robotique (ROS, RobotDK, Cura), Panorama Studio  
-**Siemens :** Desigo Control Center, Desigo Insight, Desigo Xworks Plus, ABT Site, Connect Box, TIA Portal, NodeRed  
-**Systèmes & Réseaux :** Linux, Windows, VMware, Hyper-V, TCP/IP, Wireshark, Sécurité (ANSSI, Kali Linux)  
-**Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
-**Électronique :** Arduino, Raspberry Pi, STM32, FPGA (VHDL), soudure, lecture de datasheets  
-**Bureautique :** Excel, Word, PowerPoint, Power BI
+- **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio
+- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
+- **Systèmes & Réseaux :** Linux, Windows, VMware, Hyper-V, Cybersécurité  
+- **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
+- **Électronique :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soudure, Compréhension de Datasheets  
+- **Bureautique :** Microsoft 365
 
 ## CERTIFICATIONS
 
@@ -64,6 +64,4 @@
 ## CENTRES D’INTÉRÊT
 
 - Musculation — 8 ans  
-- Tennis — 6 ans  
-- Escalade — bloc  
-- Automobile
+- Tennis — 6 ans
