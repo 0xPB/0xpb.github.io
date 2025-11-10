@@ -45,12 +45,12 @@ ___
 
 ## SKILLS
 
-- **Industry:** Automation, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotics, ROS, RobotDK, Panorama Studio
-- **Siemens:** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN
-- **Systems &amp; Networks:** Linux, Windows, VMware, Hyper-V, Cybersecurity
-- **Development:** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell
-- **Electronics:** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soldering, Datasheet Comprehension
-- **Office Software:** Microsoft 365
+- **Industry :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio
+- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
+- **Systems & Networks :** Linux, Windows, VMware, Hyper-V, Cybersécurité  
+- **Developement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
+- **Electronic :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soudure, Compréhension de Datasheets  
+- Microsoft 365
 
 ## CERTIFICATIONS
 
