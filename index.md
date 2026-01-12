@@ -16,14 +16,38 @@ J'aime analyser, optimiser et améliorer les systèmes pour les rendre plus perf
 
 ## Projets
 
-- [Projet Cobot UR3 (Python)](https://github.com/0xPB/SARII-TutoredProjectCobotUR3) — Application Python de pilotage UR3 avec IHM Tkinter.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
-- [CandyCash (Vue.js / Node.js)](https://github.com/0xPB/CandyCash) — Tableau de bord financier temps réel.
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">🤖 Projet Cobot UR3</h3>
+  <p style="color: #666; margin: 10px 0;"><strong>Python</strong> • Tkinter</p>
+  <p>Application Python de pilotage UR3 avec IHM Tkinter.</p>
+  <a href="https://github.com/0xPB/SARII-TutoredProjectCobotUR3" style="color: #0366d6; text-decoration: none; font-weight: bold;">→ Voir le projet</a>
+</div>
 
-- [Automatisation bras Dobot (Python / Raspberry Pi)](https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building) — Pilotage du bras Dobot avec architecture modulaire.
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">💰 CandyCash</h3>
+  <p style="color: #666; margin: 10px 0;"><strong>Vue.js</strong> • Node.js</p>
+  <p>Tableau de bord financier temps réel avec visualisations avancées.</p>
+  <a href="https://github.com/0xPB/CandyCash" style="color: #0366d6; text-decoration: none; font-weight: bold;">→ Voir le projet</a>
+</div>
 
-- [Slime — Application de messagerie (C / SQLite)](https://github.com/0xPB/RI-2A-Slime-Messaging) — Client-serveur en C avec gestion des canaux.
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">🦾 Automatisation Dobot</h3>
+  <p style="color: #666; margin: 10px 0;"><strong>Python</strong> • Raspberry Pi</p>
+  <p>Pilotage du bras Dobot avec architecture modulaire et flexible.</p>
+  <a href="https://github.com/0xPB/ROB-2A-Dobot-Kapla-Building" style="color: #0366d6; text-decoration: none; font-weight: bold;">→ Voir le projet</a>
+</div>
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 20px; background: #f9f9f9; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <h3 style="margin-top: 0;">💬 Slime Messaging</h3>
+  <p style="color: #666; margin: 10px 0;"><strong>C</strong> • SQLite</p>
+  <p>Client-serveur en C avec gestion des canaux et persistance de données.</p>
+  <a href="https://github.com/0xPB/RI-2A-Slime-Messaging" style="color: #0366d6; text-decoration: none; font-weight: bold;">→ Voir le projet</a>
+</div>
+
+</div>
 
 ---
 
-© Paul BRUNO — 2025 | [GitHub](https://github.com/0xPB)
+© Paul Bruno
