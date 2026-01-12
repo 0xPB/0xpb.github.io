@@ -30,7 +30,7 @@ ___
 - Migration of Building Management System projects from Desigo Insight to Desigo Control Center
 
 **Aerospline - Robotics Technician** · Internship · 04/04/2022 – 10/06/2022
-- Proof Of Concept of a Computer Numerical Control Machine tool for parts conformity verification in airplanes motors
+- Proof of concept for a computer numerical control machine tool for checking the quality of aircraft engine
 - Embedded development on Raspberry Pi and Arduino
 - HMI development, collaboration with mechanical engineer for CAD
 
