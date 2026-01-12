@@ -31,8 +31,8 @@ ___
 
 **Aerospline - Robotics Technician** · Internship · 04/04/2022 – 10/06/2022
 - Proof Of Concept of a Computer Numerical Control Machine tool for parts conformity verification in airplanes motors
-- Embedded development (Python, C++) on Raspberry Pi and Arduino
-- HMI creation, CAD, and collaboration with the mechanical engineer
+- Embedded development on Raspberry Pi and Arduino
+- HMI development, collaboration with mechanical engineer for CAD
 
 ## EDUCATION
 
