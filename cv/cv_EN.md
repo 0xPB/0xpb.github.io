@@ -22,7 +22,7 @@ ___
 
 **Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Solution Engineer Building Infrastructure & Automation** · Internship · 28/05/2025 – 22/07/2025
 - Communication and Presentations in English
-- Development of a web application automating part of quality control for Building Management System (BMS) project migrations (90% time savings)
+- Development of a web application automating part of quality control for Building Management System project migrations (90% time savings)
 - Projects migrations from Desigo Insight to Desigo CC
 
 **Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Commissioning Technician Building Infrastructure & Automation** · Apprenticeship · 01/09/2022 – 15/08/2023
