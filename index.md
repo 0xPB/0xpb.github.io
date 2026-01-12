@@ -1,5 +1,3 @@
-# Paul Bruno
-
 Apprenti Ingénieur Réseaux & Informatique — ENSEIRB-MATMECA
 
 [Télécharger CV Français](cv/CV_FR_Paul_Bruno.pdf) | [Télécharger CV Anglais](cv/CV_EN_Paul_Bruno.pdf)
