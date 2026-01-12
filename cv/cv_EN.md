@@ -45,11 +45,11 @@ ___
 
 ## SKILLS
 
-- **Industry :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio
-- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
+- **Industry :** Automation, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotics, ROS, RobotDK, Panorama Studio
+- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal  
 - **Systems & Networks :** Linux, Windows, VMware, Hyper-V, Cybersécurité  
 - **Developement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
-- **Electronic :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soudure, Compréhension de Datasheets  
+- **Electronic :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Welding, Datasheets 
 - Microsoft 365
 
 ## CERTIFICATIONS
@@ -59,5 +59,5 @@ ___
 
 ## INTERESTS
 
-- Weightlifting - 7 years
+- Weightlifting - 8 years
 - Tennis - 6 years
