@@ -50,7 +50,7 @@ ___
 - **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
 - **Systèmes & Réseaux :** Linux, Windows, VirtualBox VMware, Hyper-V, bonnes pratiques Cybersécurité  
 - **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
-- **Électronique :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soudure, Compréhension de Datasheets  
+- **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de Datasheets  
 - **Suite Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
 
 ## CERTIFICATIONS
