@@ -15,24 +15,24 @@ ___
 
 ## PROFESSIONAL EXPERIENCE
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Building Infrastructure &amp; Automation (BIA) Project Manager** · Apprenticeship · 01/09/2023 – 28/08/2026
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Solution Engineer Building Infrastructure & Automation** · Apprenticeship · 01/09/2023 – 28/08/2026
 - Development of automation tools (80% time savings)
 - Migration of virtual machine fleet - implementation of solutions for service continuity
 - On-site interventions with clients, in-person and remotely
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - BIA Project Manager** · Internship · 28/05/2025 – 22/07/2025
+**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Solution Engineer Building Infrastructure & Automation** · Internship · 28/05/2025 – 22/07/2025
 - Communication and Presentations in English
 - Development of a web application automating part of quality control for Building Management System (BMS) project migrations (90% time savings)
 - Projects migrations from Desigo Insight to Desigo CC
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - BIA Commissioning Technician** · Apprenticeship · 01/09/2022 – 15/08/2023
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Commissioning Technician Building Infrastructure & Automation** · Apprenticeship · 01/09/2022 – 15/08/2023
 - Development of real-time stock display software due to the Covid crisis (95% time savings)
 - Development of an automated project planning generator (80% time savings)
 - Migration of Building Management System projects from Desigo Insight to Desigo Control Center
 
 **Aerospline - Robotics Technician** · Internship · 04/04/2022 – 10/06/2022
-- POC of a CNC machine tool for parts conformity verification
-- Embedded development (Python, C++) on Raspberry Pi and Arduino, HMI
+- Proof Of Concept of a Computer Numerical Control Machine tool for parts conformity verification in airplanes motors
+- Embedded development (Python, C++) on Raspberry Pi and Arduino
 - HMI creation, CAD, and collaboration with the mechanical engineer
 
 ## EDUCATION
