@@ -48,9 +48,9 @@ ___
 
 - **Industry :** Automation, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotics, ROS, RobotDK, Panorama Studio
 - **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal  
-- **Systems & Networks :** Linux, Windows, VMware, Hyper-V, Cybersécurité  
+- **Systems & Networks :** Linux, Windows, VMware, Hyper-V, Cybersecurity good pratices  
 - **Developement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
-- **Electronic :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Welding, Datasheets 
+- **Electronic :** Arduino, Raspberry Pi, STM32, VHDL, Welding, Datasheets 
 - Microsoft 365
 
 ## CERTIFICATIONS
