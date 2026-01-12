@@ -15,24 +15,24 @@ ___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Chargé de Projets Building Infrastructure & Automation (BIA)** · Alternance · 01/09/2023 – 28/08/2026  
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026  
 - Developpement d'outils d'automatisation (80% de gains de temps)
 - Migration parc de machines virtuelles - mise en place de solutions pour la continuité de service 
 - Interventions sur sites en client en présentiel et à distance 
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Chargé de Projets BIA** · Stage · 28/05/2025 – 22/07/2025  
-- Communication et Présentations en Anglais
+**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
+- Communication et présentations en Anglais
 - Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90% de gain de temps)
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Technicien de Mise en Service BIA** · Alternance · 01/09/2022 – 15/08/2023  
+**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
 - Développement d’un logiciel d’affichage des stocks en temps réel dû à la crise Covid (95% de gain de temps)
 - Développement d’un générateur automatisé de plannings projets (80% de gain de temps) 
 - Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
 
 **Aerospline- Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
-- POC d’une machine-outil à commande numérique pour la vérification de conformité de pièces 
-- Développement embarqué (Python, C++) sur Raspberry Pi et Arduino, IHM
-- Réalisation d’IHM, CAO et collaboration avec l’ingénieur en mécanique
+- Preuve de concept d’une machine-outil à commande numérique pour le contrôle qualités des pièces de moteurs des avions
+- Développement embarqué sur Raspberry Pi et Arduino, IHM
+- Développement d'une interface homme-machine, Collaboration avec l’ingénieur en mécanique pour la CAO
 
 ## FORMATION
 
@@ -48,10 +48,10 @@ ___
 
 - **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio
 - **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
-- **Systèmes & Réseaux :** Linux, Windows, VMware, Hyper-V, Cybersécurité  
+- **Systèmes & Réseaux :** Linux, Windows, VirtualBox VMware, Hyper-V, bonnes pratiques Cybersécurité  
 - **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
 - **Électronique :** Arduino, Raspberry Pi, STM32, FPGA - VHDL, Soudure, Compréhension de Datasheets  
-- **Bureautique :** Microsoft 365
+- **Suite Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
 
 ## CERTIFICATIONS
 
@@ -61,5 +61,5 @@ ___
 
 ## CENTRES D’INTÉRÊT
 
-- Musculation - 7 ans  
+- Musculation - 8 ans  
 - Tennis - 6 ans
