@@ -23,6 +23,7 @@ ___
 **Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - BIA Project Manager** · Internship · 28/05/2025 – 22/07/2025
 - Communication and Presentations in English
 - Development of a web application automating part of quality control for Building Management System (BMS) project migrations (90% time savings)
+- Projects migrations from Desigo Insight to Desigo CC
 
 **Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - BIA Commissioning Technician** · Apprenticeship · 01/09/2022 – 15/08/2023
 - Development of real-time stock display software due to the Covid crisis (95% time savings)
@@ -41,7 +42,7 @@ ___
 - **Bordeaux University Institute of Technology** - Professional License in Automated Systems, Networks and Industrial Computing · Apprenticeship · 2022 – 2023 · _Top of Class · Very Good Honors_
 - **Bordeaux University Institute of Technology** - University Diploma in Robotics · 2020 – 2022
 - **Bordeaux University Institute of Technology** - University Diploma in Electrical Engineering and Industrial Computing · 2020 – 2022
-- **High School Sud Médoc** - Scientific Baccalaureate, Engineering Sciences option, Computer Science and Digital Sciences specialization · 2020 · _Good Honors_
+- **High School South Medoc** - Scientific Baccalaureate, Engineering Sciences option, Computer Science and Digital Sciences specialization · 2020 · _Good Honors_
 
 ## SKILLS
 
