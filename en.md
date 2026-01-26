@@ -2,22 +2,20 @@
   <a href="/">🇫🇷 Français</a>
 </div>
 
-# Paul Bruno
-
-Junior Network & IT Engineer — ENSEIRB-MATMECA
+# CV
 
 <div style="margin: 30px 0; display: flex; gap: 15px;">
   <a href="cv/CV_FR_Paul_Bruno.pdf" style="display: inline-block; background: #0366d6; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Download French CV</a>
   <a href="cv/CV_EN_Paul_Bruno.pdf" style="display: inline-block; background: #28a745; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Download English CV</a>
 </div>
 
-## About
+# About
 
 Passionate about the industrial world and new technologies, I am a junior network and IT engineer at ENSEIRB-MATMECA.
 
 I enjoy analyzing, optimizing and improving systems to make them more efficient and suited to business needs. Curious and meticulous, I enjoy solving complex problems with a methodical and structured approach.
 
-## Projects
+# Projects
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
