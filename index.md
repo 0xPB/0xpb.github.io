@@ -1,7 +1,3 @@
-<div style="text-align: right;">
-  <a href="/en.html">🇬🇧 English</a>
-</div>
-
 # CV
 
 <div style="margin: 30px 0; display: flex; gap: 15px;">
