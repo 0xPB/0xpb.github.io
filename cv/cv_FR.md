@@ -15,23 +15,23 @@ ___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026  
+**Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026  
 - Developpement d'outils d'automatisation (80% de gains de temps)
 - Migration parc de machines virtuelles - mise en place de solutions pour la continuité de service 
-- Interventions sur sites en client en présentiel et à distance 
+- Interventions sur sites en client en présentiel et à distance
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
+**Siemens Bulgarie - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
 - Communication et présentations en Anglais
 - Développement d’une application web automatisant une partie du contrôle qualité pour les migrations de projets de Gestion Technique du Bâtiment (90% de gain de temps)
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
+**Siemens France - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
 - Développement d’un logiciel d’affichage des stocks en temps réel dû à la crise Covid (95% de gain de temps)
 - Développement d’un générateur automatisé de plannings projets (80% de gain de temps) 
-- Migrations de projets de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center  
+- Migrations de projets de supervision industrielle de gestion technique du bâtiment de Desigo Insight vers Desigo Control Center  
 
-**Aerospline- Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
+**Aerospline - Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
 - Preuve de concept d’une machine-outil à commande numérique pour le contrôle qualités des pièces de moteurs des avions
-- Développement embarqué sur Raspberry Pi et Arduino, IHM
+- Développement embarqué sur Raspberry Pi et Arduino
 - Développement d'une interface homme-machine, Collaboration avec l’ingénieur en mécanique pour la CAO
 
 ## FORMATION
@@ -43,15 +43,14 @@ ___
 - **IUT de Bordeaux** - DUT Génie Électrique et Informatique Industrielle · 2020 – 2022
 - **Lycée Sud Médoc** - Baccalauréat Scientifique, option Sciences de l'Ingénieur, spécialité Informatique et Sciences du Numérique · 2020  · _Mention Bien_
 
-
 ## COMPÉTENCES
 
-- **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio
+- **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio, FESTO FST
 - **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal, LoRaWAN  
 - **Systèmes & Réseaux :** Linux, Windows, VirtualBox VMware, Hyper-V, bonnes pratiques Cybersécurité  
 - **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
-- **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de Datasheets  
-- **Suite Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
+- **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de datasheets  
+- **Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
 
 ## CERTIFICATIONS
 
