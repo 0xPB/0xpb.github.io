@@ -1,17 +1,19 @@
-# CV
+# Paul Bruno
+
+## CV
 
 <div style="margin: 30px 0; display: flex; gap: 15px;">
   <a href="cv/CV_FR_Paul_Bruno.pdf" style="display: inline-block; background: #0366d6; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Télécharger CV Français</a>
   <a href="cv/CV_EN_Paul_Bruno.pdf" style="display: inline-block; background: #28a745; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; transition: background 0.3s;">Download English CV</a>
 </div>
 
-# À propos
+## À propos
 
 Passionné par le monde industriel et les nouvelles technologies, je suis apprenti ingénieur en réseaux et informatique à l'ENSEIRB-MATMECA.
 
 J'aime analyser, optimiser et améliorer les systèmes pour les rendre plus performants et adaptés aux besoins des entreprises. Curieux et rigoureux, je prends plaisir à résoudre des problématiques complexes en adoptant une approche méthodique et structurée.
 
-# Projets
+## Projets
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
