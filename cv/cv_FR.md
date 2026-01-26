@@ -7,7 +7,7 @@
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
   : <span class="iconify" data-icon="tabler:phone"></span> [(+33) 6 87 60 65 80](tel:+33687606580)
 
-<span class="iconify" data-icon="ic:outline-location-on"></span> Bordeaux, France
+<span class="iconify" data-icon="ic:outline-location-on"></span> Bordeaux
   : <span class="iconify" data-icon="tabler:brand-linkedin"></span> [linkedin.com/in/paulbruno33](https://linkedin.com/in/paulbruno33)
   : <span class="iconify" data-icon="tabler:mail"></span> [paul.bruno.contact@proton.me](mailto:paul.bruno.contact@proton.me)
 
