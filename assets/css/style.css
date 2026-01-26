@@ -1,0 +1,196 @@
+/* =========================
+   VARIABLES
+   ========================= */
+:root {
+  --bg-main: #f4f4f4;
+  --bg-section: #ffffff;
+  --text-main: #111111;
+  --text-muted: #555555;
+  --accent: #000000;
+  --border-strong: 3px solid #000;
+  --border-light: 1px solid #000;
+}
+
+/* =========================
+   RESET MINIMAL
+   ========================= */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 40px;
+  font-family: "IBM Plex Mono", "JetBrains Mono", monospace;
+  background: var(--bg-main);
+  color: var(--text-main);
+  line-height: 1.6;
+}
+
+/* =========================
+   CONTAINER
+   ========================= */
+main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+/* =========================
+   TITRES
+   ========================= */
+h1, h2, h3 {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+h1 {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+  border-bottom: var(--border-strong);
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.6rem;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  border-left: 8px solid black;
+  padding-left: 16px;
+}
+
+h3 {
+  font-size: 1.1rem;
+}
+
+/* =========================
+   LIENS
+   ========================= */
+a {
+  color: var(--text-main);
+  text-decoration: none;
+  border-bottom: 2px solid black;
+}
+
+a:hover {
+  background: black;
+  color: white;
+}
+
+/* =========================
+   HEADER / INFOS
+   ========================= */
+.header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-bottom: 40px;
+}
+
+.header span,
+.header a {
+  display: inline-block;
+  margin-bottom: 6px;
+}
+
+/* =========================
+   SECTIONS
+   ========================= */
+section {
+  background: var(--bg-section);
+  border: var(--border-strong);
+  padding: 25px;
+  margin-bottom: 40px;
+}
+
+/* =========================
+   EXPERIENCES
+   ========================= */
+.experience {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: var(--border-light);
+}
+
+.experience:last-child {
+  border-bottom: none;
+}
+
+.experience-title {
+  font-weight: bold;
+  font-size: 1.05rem;
+}
+
+.experience-meta {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-bottom: 10px;
+}
+
+/* =========================
+   LISTES
+   ========================= */
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* =========================
+   COMPETENCES
+   ========================= */
+.skills {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px;
+}
+
+.skill-block {
+  border: var(--border-light);
+  padding: 15px;
+}
+
+.skill-block strong {
+  display: block;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+
+/* =========================
+   CERTIFICATIONS
+   ========================= */
+.certifications li {
+  font-weight: bold;
+}
+
+/* =========================
+   FOOTER / INTERETS
+   ========================= */
+.interests {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.interests span {
+  border: var(--border-light);
+  padding: 8px 12px;
+}
+
+/* =========================
+   RESPONSIVE
+   ========================= */
+@media (max-width: 768px) {
+  body {
+    padding: 20px;
+  }
+
+  .header {
+    grid-template-columns: 1fr;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+}
