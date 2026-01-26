@@ -2,6 +2,7 @@
 ---
 
 # Paul Bruno
+**Disponible : à partir du 01/09/2026**
 
 <span class="iconify" data-icon="charm:person"></span> 26/09/2002 (23 ans)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
