@@ -17,10 +17,10 @@ ___
 ## EXPÉRIENCES PROFESSIONNELLES
 
 **Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026
-- Développement et déploiement d'une application conteneurisée pour les gammes de maintenance des sites sous contrats
+- Développement et déploiement d'une application conteneurisée pour les gammes de maintenance
 - Développement et mise en service d'un module d'extension (EM) pour Desigo CC pour un client pharmaceutique
-- Migration du parc de machines virtuelles vers VirtualBox et Hyper-V pour la Branche ATL 
-- Interventions dans le cadre des contrats et de dépannages sur des sites clients en présentiel et à distance
+- Migration et mise à disposition du parc de machines virtuelles vers VirtualBox et Hyper-V pour la Branche ATL 
+- Interventions dans le cadre de contrats et de dépannages sur des sites clients, en présentiel et à distance
 
 **Siemens Bulgarie - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
 - Communication et présentations en anglais
@@ -31,10 +31,9 @@ ___
 - Développement d’un générateur automatisé de plannings  projets types (80 % de gain de temps) 
 - Migrations de projets de supervision industrielle de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center
 
-**Aerospline - Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
-- Preuve de concept d’une machine-outil à commande numérique pour le contrôle qualité des pièces de moteurs d'avion
-- Développement embarqué sur Raspberry et Arduino
-- Développement d'une interface homme-machine, collaboration avec l’ingénieur en mécanique pour la CAO
+**AeroSpline - Roboticien** · Stage · 04/04/2022 – 10/06/2022  
+- Preuve de concept d’une machine-outil à commande numérique pour le contrôle qualité des moteurs d'avions
+- Choix des composants, développement, tests, collaboration avec ingénieurs pour CAO et intégration d'IA
 
 ## FORMATION
 
