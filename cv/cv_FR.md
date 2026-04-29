@@ -16,10 +16,11 @@ ___
 
 ## EXPÉRIENCES PROFESSIONNELLES
 
-**Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026  
-- Développement d'outils d'automatisation (80 % de gain de temps)
-- Migration du parc de machines virtuelles - mise en place de solutions pour la continuité de service 
-- Interventions sur sites clients en présentiel et à distance
+**Siemens France - Ingénieur Solutions Building Infrastructure & Automation** · Alternance · 01/09/2023 – 28/08/2026
+- Développement et déploiement d'une application conteneurisée pour les gammes de maintenance des sites sous contrats
+- Développement et mise en service d'un module d'extension (EM) pour Desigo CC pour un client pharmaceutique
+- Migration du parc de machines virtuelles vers VirtualBox et Hyper-V pour la Branche ATL 
+- Interventions dans le cadre des contrats et de dépannages sur des sites clients en présentiel et à distance
 
 **Siemens Bulgarie - Ingénieur Solutions Building Infrastructure & Automation** · Stage · 28/05/2025 – 22/07/2025  
 - Communication et présentations en anglais
@@ -27,7 +28,7 @@ ___
 
 **Siemens France - Technicien de Mise en Service Building Infrastructure & Automation** · Alternance · 01/09/2022 – 15/08/2023  
 - Développement d’un logiciel d’affichage des stocks en temps réel due à la crise Covid (95 % de gain de temps)
-- Développement d’un générateur automatisé de plannings projets (80 % de gain de temps) 
+- Développement d’un générateur automatisé de plannings  projets types (80 % de gain de temps) 
 - Migrations de projets de supervision industrielle de Gestion Technique du Bâtiment de Desigo Insight vers Desigo Control Center
 
 **Aerospline - Technicien Robotique** · Stage · 04/04/2022 – 10/06/2022  
@@ -47,19 +48,18 @@ ___
 ## COMPÉTENCES
 
 - **Industrie :** Automatisme, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio, FESTO FST
-- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, Nod-RED, TIA Portal, LoRaWAN  
+- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, Nod-RED, TIA Portal, LoRaWAN, WinCC OA  
 - **Systèmes & Réseaux :** Linux, Windows, VirtualBox, VMware, Hyper-V, bonnes pratiques cybersécurité  
-- **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell  
+- **Développement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, Win CC OA CTRL  
 - **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de fiches techniques  
 - **Microsoft 365 Copilot :** Excel, Word, PowerPoint, Power BI
 
 ## CERTIFICATIONS
 
-- TOEIC - 925 / 990  
+- TOEIC -  Score : 925 / 990  
 - PSC1 - Prévention et Secours Civiques de niveau 1 
 
 
 ## CENTRES D’INTÉRÊT
 
-- Musculation - 8 ans  
-- Tennis - 6 ans
+Musculation (8 ans) | Tennis (6 ans)
