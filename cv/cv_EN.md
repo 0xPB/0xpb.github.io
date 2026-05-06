@@ -2,7 +2,7 @@
 ---
 
 # Paul Bruno
-**Available : 2th September**
+**Available from 2nd September 2026**
 
 <span class="iconify" data-icon="charm:person"></span> [0xpb.github.io](https://https://0xpb.github.io)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
@@ -16,17 +16,17 @@ ___
 
 ## PROFESSIONAL EXPERIENCE
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Solution Engineer Building Infrastructure & Automation** · Apprenticeship · 01/09/2023 – 28/08/2026
+**Siemens France <span class="iconify" data-icon="openmoji:flag-france"></span> - Solution Engineer Building Infrastructure & Automation** · Apprenticeship · 01/09/2023 – 28/08/2026
 - Development and deployment of a containerized application for maintenance contracts
 - Development and commissioning of an Extension Module (EM) for Desigo CC for a pharmaceutical client (85% time savings)
 - Migration and provisioning of the virtual machine fleet to VirtualBox and Hyper-V for the ATL Branch
 - On-site and remote technical support and interventions under service contracts for client sites
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Solution Engineer Building Infrastructure & Automation** · Internship · 28/05/2025 – 22/07/2025
+**Siemens Bulgaria <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Solution Engineer Building Infrastructure & Automation** · Internship · 28/05/2025 – 22/07/2025
 - Communication and Presentations in English
 - Development of a web application automating part of quality control for Building Management System project migrations (90% time savings)
 
-**Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Commissioning Technician Building Infrastructure & Automation** · Apprenticeship · 01/09/2022 – 15/08/2023
+**Siemens France <span class="iconify" data-icon="openmoji:flag-france"></span> - Commissioning Technician Building Infrastructure & Automation** · Apprenticeship · 01/09/2022 – 15/08/2023
 - Development of real-time stock display software due to the Covid crisis (95% time savings)
 - Development of an automated project planning generator (80% time savings)
 - Migration of Building Management System projects from Desigo Insight to Desigo Control Center
