@@ -2,6 +2,7 @@
 ---
 
 # Paul Bruno
+**Available : 2th September**
 
 <span class="iconify" data-icon="charm:person"></span> [0xpb.github.io](https://https://0xpb.github.io)
   : <span class="iconify" data-icon="tabler:brand-github"></span> [github.com/0xPB](https://github.com/0xPB)
@@ -16,9 +17,10 @@ ___
 ## PROFESSIONAL EXPERIENCE
 
 **Siemens <span class="iconify" data-icon="openmoji:flag-france"></span> - Solution Engineer Building Infrastructure & Automation** · Apprenticeship · 01/09/2023 – 28/08/2026
-- Development of automation tools (80% time savings)
-- Migration of virtual machine fleet - implementation of solutions for service continuity
-- On-site interventions with clients, in-person and remotely
+- Development and deployment of a containerized application for maintenance contracts
+- Development and commissioning of an Extension Module (EM) for Desigo CC for a pharmaceutical client (85% time savings)
+- Migration and provisioning of the virtual machine fleet to VirtualBox and Hyper-V for the ATL Branch
+- On-site and remote technical support and interventions under service contracts for client sites
 
 **Siemens <span class="iconify" data-icon="openmoji:flag-bulgaria"></span> - Solution Engineer Building Infrastructure & Automation** · Internship · 28/05/2025 – 22/07/2025
 - Communication and Presentations in English
@@ -30,9 +32,8 @@ ___
 - Migration of Building Management System projects from Desigo Insight to Desigo Control Center
 
 **Aerospline - Robotics Technician** · Internship · 04/04/2022 – 10/06/2022
-- Proof of concept for a computer numerical control machine tool for checking the quality of aircraft engine
-- Embedded development on Raspberry Pi and Arduino
-- HMI development, collaboration with mechanical engineer for CAD
+- Proof of Concept (PoC) for a CNC machine tool dedicated to aircraft engine quality control.
+- Component selection, development, testing, and collaboration with engineers on CAD and AI integration.
 
 ## EDUCATION
 
@@ -45,11 +46,11 @@ ___
 
 ## SKILLS
 
-- **Industry :** Automation, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotics (ROS), Panorama Studio
-- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, NodeRed, TIA Portal  
-- **Systems & Networks :** Linux, Windows, VirtualBox, VMware, Hyper-V, Cybersecurity good pratices  
-- **Developement :** Python, C/C++, Java, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, Databases, Bash, PowerShell  
-- **Electronic :** Arduino, Raspberry Pi, STM32, VHDL, Welding, Datasheets understanding 
+- **Industry :** Automation, GRAFCET, Ladder Logic, SCADA/Supervision, ModBus, BACnet, LoRaWAN, Robotics, ROS (Robot Operating System), RoboDK, Panorama Studio, FESTO FST
+- **Siemens :** Desigo CC (Control Center), Desigo Insight, Connect Box, Node-RED, TIA Portal, LoRaWAN, WinCC OA 
+- **Systems & Networks :** Linux, Windows, VirtualBox, VMware, Hyper-V, Cybersecurity best practices
+- **Developement :** Python, C/C++, Java, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, WinCC OA CTRL
+- **Electronic :** Arduino, Raspberry Pi, STM32, VHDL, Soldering, Datasheet interpretation
 - **Microsoft 365 Copilot Suite** : Excel, Word, PowerPoint, Power BI
 
 ## CERTIFICATIONS
@@ -59,5 +60,4 @@ ___
 
 ## INTERESTS
 
-- Weightlifting - 8 years
-- Tennis - 6 years
+Weightlifting (8 ans) | Tennis (6 ans)
