@@ -63,4 +63,4 @@ ___
 
 ## CENTRES D’INTÉRÊT
 
-Musculation (8 ans) | Tennis (6 ans)
+- Musculation (8 ans) • Tennis (6 ans) • Escalade (bloc)
