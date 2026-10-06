@@ -49,7 +49,7 @@ ___
 ## COMPÉTENCES
 
 - **Industrie :** Automatisme, SCADA, GRAFCET, Ladder, Supervision, ModBus, BACnet, LoRaWAN, Robotique, ROS, RobotDK, Panorama Studio, FESTO FST
-- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, Nod-RED, TIA Portal, LoRaWAN, WinCC OA  
+- **Siemens :** Desigo Control Center, Desigo Insight, Connect Box, Node-RED, TIA Portal, LoRaWAN, WinCC OA  
 - **Systèmes & Réseaux :** Linux, Windows, VirtualBox, VMware, Hyper-V, bonnes pratiques cybersécurité  
 - **Développement :** Python, C/C++, Java, Go, C#, HTML/CSS/JS, Node.js, Docker, Git, CI/CD, SQL, MongoDB, Bash, PowerShell, Win CC OA CTRL  
 - **Électronique :** Arduino, Raspberry Pi, STM32, VHDL, Soudure, Compréhension de fiches techniques  
